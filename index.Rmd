@@ -1,5 +1,16 @@
 <link rel="stylesheet" href="styles.css" type="text/css">
 
+<style type="text/css">
+.main-container {
+  max-width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
+
+\
+\
+
 <style>
 .column-left{
   float: left;
@@ -21,15 +32,28 @@
 
 <div class="column-left">
   <img src="images/sam.jpg" style="width: 100%; border:0px solid; margin-right: 20px" align="left">
-  
-$~$
 
-  
-sam.trejo@wisc.edu
+# $~$
+# $~$
 
-512 78237b43
 
-Office # 34534
+ [**Curriculum Vitae**](https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf)
+
+# \
+
+sam.trejo *at* wisc *dot* edu
+
+
+# \
+
+Social Sciences 4440, 
+
+1180 Observatory Dr,
+
+Madison, WI 53706
+
+(512) 804-8186
+
 
 </div>
 
@@ -37,17 +61,80 @@ Office # 34534
 </div>
 
 <div class="column-right">
-<h6>Sam Trejo</h6>
 
-<h5>Assistant Professor of Public Affairs and Sociology</h5>
+###### Sam Trejo
+
+# \
+
+##### Assistant Professor of Public Affairs and Sociology
+
+# \
+# \
 
 
-  I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/departments/epidemiology-biostatistics) in the department of Epidemiology & Biostatistics.  
+Sam Trejo’s research explores how social, environmental, and genetic factors combine to shape human development and the implications for public policy. He specializes quasi-experimental, biosocial methods, and computational methods, and is particularly interested in the reciprocal relationship between education and health across the life-course.
 
-Hello, Website! Welcome to the world. 
-;SFHasAF;SDFJAS;DKFJ;SADF
-;SFHasAF;SDFJAS;DKFJ;SADF
-</div>
+# \
+# \
+
+---
+
+
+##### Research
+
+\* denotes joint lead authorship
+
+---
+
+#### Working Papers
+
+# \
+
+**Sam Trejo**. "Exploring Genetics Influences on Birth Weight." ([Paper](trejo_genbw_2020.pdf))
+
+# \
+
+Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, *Sam Trejo*, and Elliot M. Tucker-Drob\*. "Heteroscedastic Regression Modeling Elucidates Gene-by-Environment Interaction." ([Paper](domingue_hetero_2020.pdf))
+
+---
+
+#### Published and Forthcoming
+
+# \
+ 
+Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob. "Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges." *Sociological Science*. 2020.
+([Paper](domingue_gxe_socsci_2020.pdf))
+
+# \
+
+Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat. "Local Exposure to School Shootings and Youth Antidepressant Use." *Proceedings of the National Academy of Sciences*. 2020.
+([Paper](rossin-slater_shoot_pnas_2020.pdf)) {Press: [Washington Post](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [Los Angeles Times](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [The Hill](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shootin)}
+
+# \
+
+Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue. "The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development." *Psychological Science*. 2020. ([Paper](armstrong-carter_gennurt_psysci_2020.pdf)) {[FAQ](armstrong-carter_gennurt_psysci_2020_faq.pdf)}
+
+# \
+
+**Sam Trejo** and Benjamin W. Domingue. "Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses." *\textit{*Biodemography and Social Biology*. 2019. ([Paper](trejo_gennurt_bdsb_2019.pdf))
+
+# \
+
+Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*. "Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future." **AERA Open**. 2019. ([Paper](martschenko_gened_aeraopen_2019.pdf)) {Press: [American Educational Research Associations](martschenko_gened_aeraopen_2019.pdf)}
+
+# \
+
+**Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. "Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath." *Sociological Science*. 2018. ([Paper](trejo_schmod_socsci_2018.pdf))
+
+# \
+
+---
+
+#### Resting Papers
+
+# \
+
+Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. "Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study." *SocArXiv*. 2019. ([Paper](freese_dunkel_2019.pdf))
 
 
 
