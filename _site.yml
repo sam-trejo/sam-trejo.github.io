@@ -1,8 +1,20 @@
 name: "website"
 navbar:
-  title: "Website"
-  left:
-    - text: "Home"
+    left:
+    - text: "Curriculum Vitae"
+      href: https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf
+    right:
+    - text: "Research"
       href: index.html
-    - text: "About"
-      href: about.html
+    - text: "Courses"
+      href: courses.html
+    - text: "Podcast"
+      href: podcast.html
+    css: 'styles.css'
+
+
+output:
+  html_document:
+    css: 'styles.css'
+    theme: paper 
+

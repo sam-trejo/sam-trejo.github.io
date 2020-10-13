@@ -1,5 +1,53 @@
----
-  title: "Website"
----
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+<style>
+.column-left{
+  float: left;
+  width: 25%;
+  text-align: left;
+}
+.column-center{
+  display: inline-block;
+  width: 5%;
+  text-align: left;
+}
+.column-right{
+  float: right;
+  width: 70%;
+  text-align: left;
+}
+</style>
+
+
+<div class="column-left">
+  <img src="images/sam.jpg" style="width: 100%; border:0px solid; margin-right: 20px" align="left">
   
-  Hello, Website! Welcome to the world.
+$~$
+
+  
+sam.trejo@wisc.edu
+
+512 78237b43
+
+Office # 34534
+
+</div>
+
+<div class="column-center">
+</div>
+
+<div class="column-right">
+<h6>Sam Trejo</h6>
+
+<h5>Assistant Professor of Public Affairs and Sociology</h5>
+
+
+  I like to analyze data to answer research questions and test hypotheses. Currently I investigate questions related to breast cancer through my work as a Research Biostatistician at [Memorial Sloan Kettering Cancer Center](https://www.mskcc.org/departments/epidemiology-biostatistics) in the department of Epidemiology & Biostatistics.  
+
+Hello, Website! Welcome to the world. 
+;SFHasAF;SDFJAS;DKFJ;SADF
+;SFHasAF;SDFJAS;DKFJ;SADF
+</div>
+
+
+
