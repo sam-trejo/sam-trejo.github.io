@@ -4,15 +4,36 @@
 
 @import url('https://fonts.googleapis.com/css?family=Raleway');
 
+@import url('https://rsms.me/inter/inter.css');
+html { font-family: 'Inter', sans-serif; }
+
+@supports (font-variation-settings: normal) {
+  html { font-family: 'Inter var', sans-serif; }
+}
+
+a {
+  color: #49aeee;
+}
+
+.navbar-default {
+    background-color: #f4f4f4;
+}
 
 h1 {
   font-family: 'Raleway';
   font-size: 6pt;
 }
 
-h2, h3 {
+h2 {
   font-family: 'Raleway';
   font-size: 20pt;
+}
+
+h3 {
+  font-family: 'Inter';
+  font-size: 20pt;
+  margin: 0px 0px 0px 0px; 
+  padding: 0px 0px 0px 0px;
 }
 
 h4{
@@ -30,47 +51,12 @@ h6{
   font-size: 32pt;
 }
 
-
-
 body{
-  font-family: 'Lucida Console';
+  font-family: 'Inter';
   font-size: 10pt;
-  font-weight: lighter;
-}
-
-a {
-  color: #49aeee;
-}
-
-p {
-  margin-top: 1px;
-  margin-bottom: 1px;
-  margin-right: 1px;
-  margin-left: 1px;
-}
-
-.navbar-default {
-    background-color: white;
+  background-color: #f4f4f4;
 }
 
 
-/*
-font-family: 'Oswald'
-@import url('https://fonts.googleapis.com/css?family=Oswald');
-
-.navbar-default .navbar-nav>.open>a, 
-.navbar-default .navbar-nav>.active>a, 
-a.dropdown-toggle:hover {
-  background-color: #141c25 !important;
-}
 
 
-.navbar-default .dropdown-menu>.active>a
-.navbar-default .navbar-nav>.active>a:hover, 
-.navbar-default .navbar-nav:hover, 
-.navbar-default .navbar-nav>li>a:hover, 
-a.navbar-brand:hover {
-  color: #ffffffab !important;
-  background-color: #141c25;
-}
-*/

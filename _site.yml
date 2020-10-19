@@ -1,14 +1,8 @@
 
 name: "website"
 navbar:
-    
-    left:
-    - text: "         "
-    - text: "         "
-    - text: "Sam Trejo"
-      href: https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf
-    - icon: fa-envelope fa-lg
 
+    title: "Sam Trejo"
 
     right:
     - text: "Research"
@@ -17,6 +11,11 @@ navbar:
       href: courses.html
     - text: "Podcast"
       href: podcast.html
+    - text: "         "
+    - text: "         "
+    - text: "Curriculum Vitea"
+      href: podcast.html    
+   
 
 output:
   html_document:
