@@ -19,50 +19,73 @@
 }
 .column-center{
   display: inline-block;
-  width: 5%;
+  width: 10%;
   text-align: left;
 }
 .column-right{
   float: right;
-  width: 70%;
+  width: 65%;
   text-align: left;
 }
 </style>
 
 
+<!-- 
+********************************************************************************
+
+********************************************************************************
+-->
+
 <div class="column-left">
   <img src="images/sam.jpg" style="width: 100%; border:0px solid; margin-right: 20px" align="left">
 
-# $~$
-# $~$
+###### .
+###### .
 
 
- [**Curriculum Vitae**](https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf)
 
-# \
+# Sam Trejo
 
-sam.trejo *at* wisc *dot* edu
+##### .
 
-●
-○
-🡐
-❖
+###### .
+###### .
+###### .
+###### .
 
-<h3>&#9679;</h3> dfsdf
+<h4 style="font-size: 16pt;"> Assistant Professor of Public Affairs and Sociology </h4>
 
+##### .
 
-# \
+<h4 style="font-size: 12pt; color: #7E7E78;"> UNIVERSITY OF WISCONSIN—MADISON </h4>      
 
-Social Sciences 4440, 
+###### \
+###### \
+###### .
+###### .
 
-1180 Observatory Dr,
+## Contact
 
+##### .
+
+sam.trejo *[at]* wisc *[dot]* edu
+
+###### .
+
+\(608) 890-4159
+
+###### .
+
+Social Sciences 4440, <br>
+1180 Observatory Dr, <br>
 Madison, WI 53706
 
-# \
 
-(608) 890-4159
+<!-- 
+********************************************************************************
 
+********************************************************************************
+-->
 
 </div>
 
@@ -71,79 +94,120 @@ Madison, WI 53706
 
 <div class="column-right">
 
-###### Sam Trejo
+# Hi y'all
+
+##### .
 
 # \
 
-##### Assistant Professor of Public Affairs and Sociology
+## My name is Sam Trejo. My research explores how social, environmental, and genetic factors combine to shape human development and the implications for public policy. He specializes quasi-experimental, biosocial methods, and computational methods, and is particularly interested in the reciprocal relationship between education and health across the life-course.
 
-# \
-# \
+<!-- 
+********************************************************************************
 
-
-Sam Trejo’s research explores how social, environmental, and genetic factors combine to shape human development and the implications for public policy. He specializes quasi-experimental, biosocial methods, and computational methods, and is particularly interested in the reciprocal relationship between education and health across the life-course.
-
-# \
-# \
-
----
-
-
-##### Research
-
-\* denotes joint lead authorship
-
----
-
-#### Working Papers
+********************************************************************************
+-->
 
 # \
 
-**Sam Trejo**. "Exploring Genetics Influences on Birth Weight." ([Paper](trejo_genbw_2020.pdf))
+<span>
+  Research &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+  <b style="color:#49aeee"> ● </b>
+  <b> PDF </b> 
+  &nbsp;&nbsp;&nbsp;
+  <b style="color:#0BA868"> ● </b>
+  <b> Summary </b>   
+</span>
+
+##### .
 
 # \
 
-Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, *Sam Trejo*, and Elliot M. Tucker-Drob\*. "Heteroscedastic Regression Modeling Elucidates Gene-by-Environment Interaction." ([Paper](domingue_hetero_2020.pdf))
+<span>
+  <b> Working Papers &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  </b>
+  <b style="font-size: 12pt; font-family: 'DM Mono'; color: #7E7E78;"> * DENOTES JOINT LEAD AUTHORSHIP </b>
+</span>
 
----
+##### .
 
-#### Published and Forthcoming
+###### .
 
-# \
- 
-Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob. "Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges." *Sociological Science*. 2020.
-([Paper](domingue_gxe_socsci_2020.pdf))
+### [Exploring Genetics Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
 
-# \
+**Sam Trejo**. *SocArXiv*.
 
-Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat. "Local Exposure to School Shootings and Youth Antidepressant Use." *Proceedings of the National Academy of Sciences*. 2020.
-([Paper](rossin-slater_shoot_pnas_2020.pdf)) {Press: [Washington Post](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [Los Angeles Times](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [The Hill](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shootin)}
+###### .
 
-# \
+### [Distinguishing Between Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://www.biorxiv.org/content/10.1101/2020.09.08.287888v2)
 
-Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue. "The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development." *Psychological Science*. 2020. ([Paper](armstrong-carter_gennurt_psysci_2020.pdf)) {[FAQ](armstrong-carter_gennurt_psysci_2020_faq.pdf)}
-
-# \
-
-**Sam Trejo** and Benjamin W. Domingue. "Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses." *\textit{*Biodemography and Social Biology*. 2019. ([Paper](trejo_gennurt_bdsb_2019.pdf))
+Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *BioRxiv*.
 
 # \
 
-Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*. "Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future." **AERA Open**. 2019. ([Paper](martschenko_gened_aeraopen_2019.pdf)) {Press: [American Educational Research Associations](martschenko_gened_aeraopen_2019.pdf)}
+## Published & Forthcoming Papers
+
+##### .
+
+###### .
+
+#### ●  2020
+
+###### .
+
+### [Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges](https://sociologicalscience.com/articles-v7-19-465/)
+
+Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
+
+###### .
+
+### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
+
+Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
+[<span style="font-size: 19pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
+<h4 style="font-size: 12pt;">
+[Washington Post](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [Los Angeles Times](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [The Hill](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shootin)
+</h4>
+
+###### .
+
+### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://doi.org/10.1177%2F0956797620917209)
+
+Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue.  *Psychological Science*.
+[<span style="font-size: 19pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020.pdf)
+[<span style="font-size: 19pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020_faq.pdf)
 
 # \
 
-**Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. "Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath." *Sociological Science*. 2018. ([Paper](trejo_schmod_socsci_2018.pdf))
+#### ○  2019
+
+###### .
+
+### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
+**Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
+[<span style="font-size: 19pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/trejo_gennurt_bdsb_2019.pdf)
+
+###### .
+
+### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
+Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 # \
 
----
+#### ●  2018
 
-#### Resting Papers
+###### .
+
+### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
+**Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. "Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath." *Sociological Science*.
 
 # \
 
-Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. "Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study." *SocArXiv*. 2019. ([Paper](freese_dunkel_2019.pdf))
+## Resting Papers
 
+##### .
 
+###### .
 
+### [Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study.](https://osf.io/preprints/socarxiv/eh9tq/)
+
+Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
