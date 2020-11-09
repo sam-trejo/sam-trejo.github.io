@@ -79,9 +79,11 @@ Madison, WI 53706
 ###### .
 ###### .
 
+<body style="line-height: 1.5;">
 Last year, I wrote an [op-ed](https://ssc.wisc.edu/~samtrejo/pdf/trejo_kidney_latimes_2020.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger.
 
 As I grow and develop as a scholar, I intend to continue writing about my research and life in non-academic media outlets.
+</body> 
 
 </div>
 
