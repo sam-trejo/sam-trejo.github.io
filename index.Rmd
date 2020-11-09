@@ -1,33 +1,24 @@
-<link rel="stylesheet" href="styles.css" type="text/css">
-
-<style type="text/css">
-.main-container {
-  width: 2200;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-
-\
 
 <style>
 .column-left{
   float: left;
-  width: 30%;
+  width: 28%;
   text-align: left;
 }
 .column-center{
   display: inline-block;
-  width: 5%;
+  width: 12%;
   text-align: left;
 }
 .column-right{
   float: right;
-  width: 65%;
+  width: 60%;
   text-align: left;
+
 }
 </style>
 
+\
 
 <!-- 
 ********************************************************************************
@@ -37,15 +28,15 @@
 
 <div class="column-left">
 
-<img src="images/sam.jpg" style="width: 100%">
+<img src="images/sam.jpg" style="width: 85%">
 
 ###### .
 
-## Sam Trejo
+<h4 style="font-size: 12pt; letter-spacing: 1px;"> Assistant Professor of <br> Public Affairs & Sociology </h4>
 
-<h4 style="font-size: 12pt;"> Assistant Professor of <br> Public Affairs & Sociology </h4>
-
-<h4 style="font-size: 10pt; color: #7E7E78;"> UNIVERSITY OF WISCONSIN—MADISON </h4>      
+<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px;">
+UNIVERSITY OF WISCONSIN — MADISON
+</h4>      
 
 ###### .
 ###### .
@@ -53,15 +44,15 @@
 
 ## Contact
 
-<h4 style="font-size: 12pt;"> sam.trejo *at* wisc *dot* edu </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px"> sam.trejo *at* wisc *dot* edu </h4>
 
 ###### .
 
-<h4 style="font-size: 12pt;"> \(608) 890-4159 </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px"> \(608) 890-4159 </h4>
 
 ###### .
 
-<h4 style="font-size: 12pt;">
+<h4 style="font-size: 12pt; letter-spacing: 1px">
 Social Sciences 4440 <br>
 1180 Observatory Dr <br>
 Madison, WI 53706
@@ -80,7 +71,7 @@ Madison, WI 53706
 
 <div class="column-right">
 
-# Sam Trejo
+# Research
 
 ##### .
 
@@ -99,27 +90,18 @@ My name is Sam Trejo—I am a quantitative social scientist interested in how so
 
 # \
 
+## Working Papers
+
+##### .
+
 <span>
-  Research &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
-  <b style="color:#49aeee;"> ● </b>
-  <b> PDF </b>
+  <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78; letter-spacing: 2.5px; float: left"> * DENOTES JOINT LEAD AUTHORSHIP </b>
+  <b style="font-size: 15pt; color:#49aeee; float: right"> ● </b>
+  <b style="font-size: 15pt; float: right"> PDF </b>
   &nbsp;
-  <b style="color:#0BA868;"> ● </b>
-  <b> FAQ </b>   
+  <b style="font-size: 15pt; color:#0BA868; float: right"> ● &nbsp;&nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; float: right"> FAQ </b>
 </span>
-
-##### .
-
-# \
-
-<span>
-  <b> Working Papers &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </b>
-  <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78;"> * DENOTES JOINT LEAD AUTHORSHIP </b>
-</span>
-
-##### .
-
-###### .
 
 ### [Exploring Genetics Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
 
@@ -133,15 +115,13 @@ Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Ell
 
 # \
 
-## Published & Forthcoming Papers
+## ○ Published & Forthcoming Papers
 
 ##### .
 
 ###### .
 
-<span style="font-size: 17pt; font-family: 'Inter';">
-● <b style="font-size: 18pt; font-family: 'DM Mono';"> 2020 </b>
-</span>
+#### 2020
 
 ###### .
 
@@ -154,31 +134,29 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 ### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
 Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
-[<span style="font-size: 17pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
 
-<h4 style="font-size: 10pt; color: #7E7E78;">
+<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px;">
 [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </h4>
 
 ###### .
 
-### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://doi.org/10.1177%2F0956797620917209)
+### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
 
 Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue.  *Psychological Science*.
-[<span style="font-size: 17pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020.pdf)
-[<span style="font-size: 17pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020_faq.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020_faq.pdf)
 
 # \
 
-<span style="font-size: 17pt; font-family: 'Inter';">
-○ <b style="font-size: 18pt; font-family: 'DM Mono';"> 2019 </b>
-</span>
+## 2019
 
 ###### .
 
 ### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
 **Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
-[<span style="font-size: 17pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/trejo_gennurt_bdsb_2019.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/trejo_gennurt_bdsb_2019.pdf)
 
 ###### .
 
@@ -187,9 +165,7 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 # \
 
-<span style="font-size: 17pt; font-family: 'Inter';">
-● <b style="font-size: 18pt; font-family: 'DM Mono';"> 2018 </b>
-</span>
+#### 2018
 
 ###### .
 
@@ -198,7 +174,7 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 # \
 
-## Resting Papers
+## ● Resting Papers
 
 ##### .
 
@@ -207,3 +183,6 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 ### [Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study](https://osf.io/preprints/socarxiv/eh9tq/)
 
 Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
+
+</div>
+

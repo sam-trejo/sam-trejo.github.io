@@ -55,8 +55,6 @@ h3 {
   font-weight: 600;
   text-decoration: underline;
   color: Black;
-/* padding-bottom: 3px; 
-   border-bottom-style: solid; */
 }
 
 h4{
@@ -64,6 +62,7 @@ h4{
   font-size: 18pt;
   font-weight: 500;
   color: Black;
+  letter-spacing: 3px;
 }
 
 h5{
@@ -86,6 +85,13 @@ body{
   font-size: 12pt;
   background-color: #f4f4f4;
   color: #7E7E78;
+  margin: auto;
+  max-width: 1325px
+}
+
+body .main-container {
+  max-width: 1325px;
+  width: 1325px;
 }
 
 span {
@@ -93,12 +99,10 @@ span {
   font-size: 32pt;
   font-weight: 700;
   color: Black;
-  line-height: 1em;
 }
 
 span b {
   font-family: 'Inter';
-  font-size: 17pt;
+  font-size: 19pt;
   font-weight: 500;
-  line-height: 1em;
 }
