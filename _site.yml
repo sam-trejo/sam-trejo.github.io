@@ -3,10 +3,6 @@ name: "website"
 navbar:
     title: "<h4> SAM TREJO </h4>"
     right:
-    - text: "RESEARCH"
-      href: index.html
-    - text: "WRITING"
-      href: writing.html      
     - text: "CURRICULUM VITAE"
       href: https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf      
 

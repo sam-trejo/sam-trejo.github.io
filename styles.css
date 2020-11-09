@@ -23,6 +23,7 @@ a:visited {
 /* mouse over link */
 a:hover {
   color: Black;
+  text-decoration: underline;
 }
 
 /* selected link */
@@ -36,8 +37,8 @@ a:active {
 
 h1 {
   font-family: 'Inter';
-  font-size: 32pt;
-  font-weight: 700;
+  font-size: 30pt;
+  font-weight: 600;
   line-height: 1em;
   color: Black;
 }

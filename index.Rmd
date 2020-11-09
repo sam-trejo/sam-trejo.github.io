@@ -70,7 +70,7 @@ Madison, WI 53706
 
 <div class="column-right">
 
-# Research
+# Biography
 
 ##### .
 
@@ -79,8 +79,14 @@ Madison, WI 53706
 ###### .
 
 <body style="line-height: 1.5;">
-My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors combine to shape human development and the potential implications for public policy. I specialize in quasi-experimental, biosocial, and computational methods and am particularly interested in the reciprocal relationship between education and health across the life-course. My research capitalizes on two data sources that, until relatively recently, were largely unavailable to researchers: (1) large administrative datasets and (2) longitudinal studies containing molecular genetic data. Apart from puzzling over human behavior, I enjoy camping, bikes, board games, and Chinese food.
+My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors combine to shape human development and the potential implications for public policy. I specialize in quasi-experimental, biosocial, and computational methods and am particularly interested in the reciprocal relationship between education and health across the life-course. My research capitalizes on two data sources that, until relatively recently, were largely unavailable to researchers: (1) large administrative datasets and (2) longitudinal studies containing molecular genetic data.
 </body> 
+<br>
+<br>
+<body style="line-height: 1.5;">
+Last year, I wrote an [op-ed](https://ssc.wisc.edu/~samtrejo/pdf/trejo_kidney_latimes_2020.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, and eating Chinese food. 
+</body> 
+
 
 <!-- 
 ********************************************************************************
@@ -89,6 +95,14 @@ My name is Sam Trejo—I am a quantitative social scientist interested in how so
 -->
 
 # \
+
+# Research
+
+##### .
+
+###### .
+###### .
+###### .
 
 ## ● Working Papers
 
@@ -150,7 +164,7 @@ Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason,
 
 # \
 
-## 2019
+#### 2019
 
 ###### .
 
