@@ -1,17 +1,15 @@
 
 name: "website"
 navbar:
-    title: "Sam Trejo"
-
+    left:
+    - text: "Curriculum Vitea"
+      href: https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf
+      
     right:
     - text: "Research"
       href: index.html
     - text: "Teaching"
       href: courses.html
-    - text: "         "
-    - text: "         "
-    - text: "Curriculum Vitea"
-      href: https://ssc.wisc.edu/~samtrejo/pdf/_trejo_cv.pdf
 
 output:
   html_document:

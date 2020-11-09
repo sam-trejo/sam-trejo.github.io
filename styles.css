@@ -36,7 +36,7 @@ a:active {
 
 h1 {
   font-family: 'Inter';
-  font-size: 40pt;
+  font-size: 32pt;
   font-weight: 700;
   line-height: 1em;
   color: Black;
@@ -51,7 +51,7 @@ h2 {
 
 h3 {
   font-family: 'Inter';
-  font-size: 16pt;
+  font-size: 14pt;
   font-weight: 600;
   text-decoration: underline;
   color: Black;
@@ -61,7 +61,7 @@ h3 {
 
 h4{
   font-family: 'DM Mono';
-  font-size: 20pt;
+  font-size: 18pt;
   font-weight: 500;
   color: Black;
 }
@@ -71,7 +71,7 @@ h5{
   font-size: 0;
   line-height: 0;
   padding-bottom: 1px; 
-  border-bottom: 2pt solid #7E7E78;
+  border-bottom: 1pt solid #7E7E78;
 }
 
 h6{
@@ -83,14 +83,14 @@ h6{
 body{
   font-family: 'Inter';
   font-weight: 400;
-  font-size: 14pt;
+  font-size: 12pt;
   background-color: #f4f4f4;
   color: #7E7E78;
 }
 
 span {
   font-family: 'Inter';
-  font-size: 40pt;
+  font-size: 32pt;
   font-weight: 700;
   color: Black;
   line-height: 1em;
@@ -98,10 +98,7 @@ span {
 
 span b {
   font-family: 'Inter';
-  font-size: 19pt;
+  font-size: 17pt;
   font-weight: 500;
   line-height: 1em;
 }
-
-
-

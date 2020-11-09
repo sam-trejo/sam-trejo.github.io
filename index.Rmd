@@ -2,24 +2,23 @@
 
 <style type="text/css">
 .main-container {
-  max-width: 80%;
+  width: 2200;
   margin-left: auto;
   margin-right: auto;
 }
 </style>
 
 \
-\
 
 <style>
 .column-left{
   float: left;
-  width: 25%;
+  width: 30%;
   text-align: left;
 }
 .column-center{
   display: inline-block;
-  width: 10%;
+  width: 5%;
   text-align: left;
 }
 .column-right{
@@ -37,49 +36,36 @@
 -->
 
 <div class="column-left">
-  <img src="images/sam.jpg" style="width: 100%; border:0px solid; margin-right: 20px" align="left">
+
+<img src="images/sam.jpg" style="width: 100%">
 
 ###### .
+
+## Sam Trejo
+
+<h4 style="font-size: 12pt;"> Assistant Professor of <br> Public Affairs & Sociology </h4>
+
+<h4 style="font-size: 10pt; color: #7E7E78;"> UNIVERSITY OF WISCONSIN—MADISON </h4>      
+
 ###### .
-
-
-
-# Sam Trejo
-
-##### .
-
-###### .
-###### .
-###### .
-###### .
-
-<h4 style="font-size: 16pt;"> Assistant Professor of Public Affairs and Sociology </h4>
-
-##### .
-
-<h4 style="font-size: 12pt; color: #7E7E78;"> UNIVERSITY OF WISCONSIN—MADISON </h4>      
-
-###### \
-###### \
 ###### .
 ###### .
 
 ## Contact
 
-##### .
-
-sam.trejo *[at]* wisc *[dot]* edu
+<h4 style="font-size: 12pt;"> sam.trejo *at* wisc *dot* edu </h4>
 
 ###### .
 
-\(608) 890-4159
+<h4 style="font-size: 12pt;"> \(608) 890-4159 </h4>
 
 ###### .
 
-Social Sciences 4440, <br>
-1180 Observatory Dr, <br>
+<h4 style="font-size: 12pt;">
+Social Sciences 4440 <br>
+1180 Observatory Dr <br>
 Madison, WI 53706
-
+</h4>
 
 <!-- 
 ********************************************************************************
@@ -94,13 +80,16 @@ Madison, WI 53706
 
 <div class="column-right">
 
-# Hi y'all
+# Sam Trejo
 
 ##### .
 
-# \
-
-## My name is Sam Trejo. My research explores how social, environmental, and genetic factors combine to shape human development and the implications for public policy. He specializes quasi-experimental, biosocial methods, and computational methods, and is particularly interested in the reciprocal relationship between education and health across the life-course.
+###### .
+###### .
+  
+<body style="line-height: 1.4;">
+My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors combine to shape human development and the potential implications for public policy. I specialize in quasi-experimental, biosocial, and computational methods and am particularly interested in the reciprocal relationship between education and health across the life-course. My research capitalizes on two data sources that, until relatively recently, were largely unavailable to researchers: (1) large administrative datasets and (2) longitudinal studies containing molecular genetic data. Apart from puzzling over human behavior, I enjoy camping, bikes, board games, and Chinese food.
+</body> 
 
 <!-- 
 ********************************************************************************
@@ -111,12 +100,12 @@ Madison, WI 53706
 # \
 
 <span>
-  Research &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
-  <b style="color:#49aeee"> ● </b>
-  <b> PDF </b> 
-  &nbsp;&nbsp;&nbsp;
-  <b style="color:#0BA868"> ● </b>
-  <b> Summary </b>   
+  Research &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;
+  <b style="color:#49aeee;"> ● </b>
+  <b> PDF </b>
+  &nbsp;
+  <b style="color:#0BA868;"> ● </b>
+  <b> FAQ </b>   
 </span>
 
 ##### .
@@ -124,8 +113,8 @@ Madison, WI 53706
 # \
 
 <span>
-  <b> Working Papers &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;  </b>
-  <b style="font-size: 12pt; font-family: 'DM Mono'; color: #7E7E78;"> * DENOTES JOINT LEAD AUTHORSHIP </b>
+  <b> Working Papers &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </b>
+  <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78;"> * DENOTES JOINT LEAD AUTHORSHIP </b>
 </span>
 
 ##### .
@@ -150,7 +139,9 @@ Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Ell
 
 ###### .
 
-#### ●  2020
+<span style="font-size: 17pt; font-family: 'Inter';">
+● <b style="font-size: 18pt; font-family: 'DM Mono';"> 2020 </b>
+</span>
 
 ###### .
 
@@ -163,9 +154,10 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 ### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
 Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
-[<span style="font-size: 19pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
-<h4 style="font-size: 12pt;">
-[Washington Post](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [Los Angeles Times](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [The Hill](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shootin)
+[<span style="font-size: 17pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
+
+<h4 style="font-size: 10pt; color: #7E7E78;">
+[WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </h4>
 
 ###### .
@@ -173,18 +165,20 @@ Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lin
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://doi.org/10.1177%2F0956797620917209)
 
 Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue.  *Psychological Science*.
-[<span style="font-size: 19pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020.pdf)
-[<span style="font-size: 19pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020_faq.pdf)
+[<span style="font-size: 17pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020.pdf)
+[<span style="font-size: 17pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020_faq.pdf)
 
 # \
 
-#### ○  2019
+<span style="font-size: 17pt; font-family: 'Inter';">
+○ <b style="font-size: 18pt; font-family: 'DM Mono';"> 2019 </b>
+</span>
 
 ###### .
 
 ### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
 **Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
-[<span style="font-size: 19pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/trejo_gennurt_bdsb_2019.pdf)
+[<span style="font-size: 17pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/trejo_gennurt_bdsb_2019.pdf)
 
 ###### .
 
@@ -193,12 +187,14 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 # \
 
-#### ●  2018
+<span style="font-size: 17pt; font-family: 'Inter';">
+● <b style="font-size: 18pt; font-family: 'DM Mono';"> 2018 </b>
+</span>
 
 ###### .
 
 ### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
-**Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. "Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath." *Sociological Science*.
+**Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. *Sociological Science*.
 
 # \
 
@@ -208,6 +204,6 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 ###### .
 
-### [Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study.](https://osf.io/preprints/socarxiv/eh9tq/)
+### [Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study](https://osf.io/preprints/socarxiv/eh9tq/)
 
 Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
