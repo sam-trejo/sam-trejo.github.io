@@ -29,7 +29,7 @@
 
 <div class="column-left">
 
-<img src="images/sam.jpg" style="width: 85%">
+<img src="images/sam.JPG" style="width: 85%">
 
 ###### .
 
