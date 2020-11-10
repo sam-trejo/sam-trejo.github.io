@@ -1,3 +1,4 @@
+<title>Sam Trejo</title>
 
 <style>
 .column-left{

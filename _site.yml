@@ -10,3 +10,5 @@ output:
   html_document:
     css: 'styles.css'
     theme: paper 
+    includes:
+      in_header: header.html
