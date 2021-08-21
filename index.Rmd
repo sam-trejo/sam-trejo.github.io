@@ -32,18 +32,18 @@ pagetitle: "Sam Trejo"
 
 <div class="column-left">
 
-<img src="images/sam.JPG" style="width: 85%">
+<img src="images/sam.JPG" style="width: 90%">
 
 ###### .
 ###### .
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of </h4>
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: 0;"> Public Affairs & Sociology </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
 
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px;">
-UNIVERSITY OF WISCONSIN — MADISON
+PRINCETON UNIVERSITY
 </h4>      
 
 ###### .
@@ -52,18 +52,17 @@ UNIVERSITY OF WISCONSIN — MADISON
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Contact </h2>
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78"> sam.trejo *[at]* wisc *[dot]* edu </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78"> samtrejo *[at]* princeton *[dot]* edu </h4>
 
 ###### .
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78"> \(608) 890-4159 </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78"> \(609) 258-4436 </h4>
 
 ###### .
 
 <h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78">
-Social Sciences 4440 <br>
-1180 Observatory Dr <br>
-Madison, WI 53706
+Wallace Hall <br>
+Princeton, NJ 08544
 </h4>
 
 <!-- 
