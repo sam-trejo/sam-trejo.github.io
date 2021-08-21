@@ -40,6 +40,8 @@ pagetitle: "Sam Trejo"
 <h4 style="font-size: 12pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of </h4>
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: 0;"> Public Affairs & Sociology </h4>
 
+###### .
+
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px;">
 UNIVERSITY OF WISCONSIN — MADISON
 </h4>      
@@ -161,7 +163,7 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
 
-<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; border-bottom: .5pt solid; border-top: .5pt solid; line-height: 2.5;">
+<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
 [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </h4>
 
