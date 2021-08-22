@@ -65,11 +65,27 @@ Wallace Hall <br>
 Princeton, NJ 08544
 </h4>
 
+###### .
+###### .
+###### .
+
+<h2 style="border-bottom: .5pt solid; line-height: 2;">  Links </h2>
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Curriculum Vitae </span>
+](https://scholar.princeton.edu/sites/default/files/strejo/files/_trejo_cv.pdf)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Princeton Sociology </span>
+](https://sociology.princeton.edu/people/sam-trejo)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Google Scholar </span>
+](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
+
 <!-- 
 ********************************************************************************
 
 ********************************************************************************
 -->
+
 </div>
 
 <div class="column-center">
@@ -101,12 +117,12 @@ Another strand of my research leverages natural experiments to explore the proce
 <br>
 <br>
 <body style="line-height: 1.5;">
-I'm currently writing a book with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In in, we unpack various social, ethical, and policy issues related to the DNA revolution. The floodgates of genetic data have opened, resurfacing age-old debates and raising new questions. We hope our book presents a genuine middle ground, moving past the dichotomies—interpretivist vs. positivist, qualitative vs. quantitative, optimism vs. pessimism regarding biological explanations—that vex the biosocial sciences. 
+I am currently writing a book with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In in, we unpack various social, ethical, and policy issues related to the DNA revolution. The floodgates of genetic data have opened, resurfacing age-old debates and raising new questions. We hope our book presents a genuine middle ground, moving past the dichotomies—interpretivist vs. positivist, qualitative vs. quantitative, optimism vs. pessimism regarding biological explanations—that vex the biosocial sciences. 
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_la_times_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Amazingly, after a person donate one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that 150-year-old house doesn’t collapse.
+Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_la_times_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Amazingly, after a person donate one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that my 150-year-old house does not collapse.
 </body> 
 
 <!-- 
