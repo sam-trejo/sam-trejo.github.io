@@ -106,7 +106,7 @@ I'm currently writing a book with my friend and colleague [Daphne Martschenko](h
 <br>
 <br>
 <body style="line-height: 1.5;">
-Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_latimes_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Amazingly, after a person donate one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that 150-year-old house doesn’t collapse.
+Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_la_times_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Amazingly, after a person donate one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that 150-year-old house doesn’t collapse.
 </body> 
 
 <!-- 
