@@ -4,6 +4,9 @@
 
 @import url('https://fonts.googleapis.com/css?family=DM+Mono');
 
+/* @import url('https://fonts.googleapis.com/css?family=Inter'); */
+
+
 <link rel="preload" href="fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
 
 :root { font-family: 'Inter', sans-serif; }
