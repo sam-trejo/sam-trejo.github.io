@@ -127,9 +127,30 @@ Last year, I wrote an [op-ed](https://ssc.wisc.edu/~samtrejo/pdf/trejo_kidney_la
 ###### .
 ###### .
 
-### [Exploring Genetics Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
+### [Learning from Flint: The Effects of the Flint Water Crisis on Educational Outcomes](www.samtrejo.com)
 
-**Sam Trejo**. *SocArXiv*.
+**Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *SocArXiv*.
+
+###### .
+###### .
+
+### [The Effect of Information on Parental School Segregation Preferences: Evidence from a Survey Experiment](www.samtrejo.com)
+
+Marissa Thompson\* and **Sam Trejo**\*. *SocArXiv*.
+
+###### .
+###### .
+
+### [False Discovery in the Analysis of Interactions as a Function of the Distributional and Metric Properties of the Outcome](https://psyarxiv.com/932fm/)
+
+Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Elliot M. Tucker-Drob. *SocArXiv*.
+
+###### .
+###### .
+
+### [An Ordinal Model for Analysis of Years of Education](https://osf.io/preprints/socarxiv/3d9zg/)
+
+Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv*.
 
 ###### .
 ###### .
@@ -138,6 +159,13 @@ Last year, I wrote an [op-ed](https://ssc.wisc.edu/~samtrejo/pdf/trejo_kidney_la
 
 Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *BioRxiv*.
 
+###### .
+###### .
+
+### [Exploring Genetics Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
+
+**Sam Trejo**. *SocArXiv*.
+
 # \
 
 ## ○ Published & Forthcoming Papers
@@ -145,6 +173,16 @@ Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Ell
 ##### .
 
 ###### .
+
+#### 2021
+
+###### .
+
+### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](www.samtrejo.com)
+
+Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*.
+
+# \
 
 #### 2020
 
