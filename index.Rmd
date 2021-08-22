@@ -86,14 +86,28 @@ Princeton, NJ 08544
 ###### .
 
 <body style="line-height: 1.5;">
-My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors combine to shape human development and the potential implications for public policy. I specialize in quasi-experimental, biosocial, and computational methods and am particularly interested in the reciprocal relationship between education and health across the life-course. My work capitalizes on two data sources that, until relatively recently, were unavailable to researchers: (1) large administrative datasets and (2) longitudinal studies containing molecular genetic data.
+My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, biosocial, and computational methods, and my research capitalizes on two data sources that, until recently, were unavailable to researchers: (1) large administrative datasets and (2) longitudinal studies containing molecular genetic data. 
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Last year, I wrote an [op-ed](https://ssc.wisc.edu/~samtrejo/pdf/trejo_kidney_latimes_2020.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, and eating Chinese food. 
+Most of my work in human genomics surrounds polygenic scores, measures meant to summarize a person’s genetic predisposition for a trait, ranging from height to depression to cognitive ability. While polygenic scores are becoming more and more predictive of a many social, behavioral, and health outcomes, there is much work to be done understanding what exactly is 'in' a polygenic score. I study how the social environment mediates, moderates, and confounds observed associations between genes and outcomes. 
 </body> 
-
+<br>
+<br>
+<body style="line-height: 1.5;">
+Another strand of my research leverages natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. This work highlights how policies and institutions designed to foster health and educational development could benefit from a more unified treatment of these two intimately related life domains.
+</body> 
+<br>
+<br>
+<body style="line-height: 1.5;">
+I'm currently writing a book with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In in, we unpack various social, ethical, and policy issues related to the DNA revolution. The floodgates of genetic data have opened, resurfacing age-old debates and raising new questions. We hope our book presents a genuine middle ground, moving past the dichotomies—interpretivist vs. positivist, qualitative vs. quantitative, optimism vs. pessimism regarding biological explanations—that vex the biosocial sciences. 
+</body> 
+<br>
+<br>
+<body style="line-height: 1.5;">
+Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_latimes_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Amazingly, after a person donate one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that 150-year-old house doesn’t collapse.
+</body> 
 
 <!-- 
 ********************************************************************************
@@ -127,14 +141,14 @@ Last year, I wrote an [op-ed](https://ssc.wisc.edu/~samtrejo/pdf/trejo_kidney_la
 ###### .
 ###### .
 
-### [Learning from Flint: The Effects of the Flint Water Crisis on Educational Outcomes](www.samtrejo.com)
+### [Learning from Flint: The Effects of the Flint Water Crisis on Educational Outcomes](https://www.samtrejo.com)
 
 **Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *SocArXiv*.
 
 ###### .
 ###### .
 
-### [The Effect of Information on Parental School Segregation Preferences: Evidence from a Survey Experiment](www.samtrejo.com)
+### [The Effect of Information on Parental School Segregation Preferences: Evidence from a Survey Experiment](https://www.samtrejo.com)
 
 Marissa Thompson\* and **Sam Trejo**\*. *SocArXiv*.
 
@@ -178,7 +192,7 @@ Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Ell
 
 ###### .
 
-### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](www.samtrejo.com)
+### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.samtrejo.com)
 
 Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*.
 
