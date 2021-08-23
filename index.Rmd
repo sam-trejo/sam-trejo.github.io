@@ -112,7 +112,7 @@ Most of my work in human genomics surrounds polygenic scores, measures meant to 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Another strand of my research leverages natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. This work highlights how policies and institutions designed to foster health and educational development could benefit from a more unified treatment of these two intimately related life domains.
+Another strand of my research leverages experimental manipulation and natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. This work highlights how policies and institutions designed to foster health and educational development could benefit from a more unified treatment of these two intimately related life domains.
 </body> 
 <br>
 <br>
