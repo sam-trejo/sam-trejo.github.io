@@ -210,7 +210,7 @@ Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Ell
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
 
-Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*.
+Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/2021_09_natgen_gwas_faq.pdf)
 
 # \
 
