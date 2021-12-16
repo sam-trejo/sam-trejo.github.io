@@ -80,6 +80,16 @@ Princeton, NJ 08544
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
 
+
+###### .
+###### .
+###### .
+
+<h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Judge John Hodgman </span>
+](https://www.nytimes.com/2021/11/24/magazine/covid-love-story-sockgate.html)
+
 <!-- 
 ********************************************************************************
 
@@ -122,7 +132,7 @@ I am currently writing a book for Princeton University Press with my friend and 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_la_times_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Remarkably, after a person donates one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that my 170-year-old house does not collapse.
+Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_la_times_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Remarkably, after a person donates one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that my [170-year-old house](https://scholar.princeton.edu/sites/default/files/strejo/files/house.jpg?m=1639680187) does not collapse.
 </body> 
 
 <!-- 
@@ -185,13 +195,6 @@ Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv
 ###### .
 ###### .
 
-### [Distinguishing Between Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://www.biorxiv.org/content/10.1101/2020.09.08.287888v2)
-
-Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *BioRxiv*.
-
-###### .
-###### .
-
 ### [Exploring Genetics Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
 
 **Sam Trejo**. *SocArXiv*.
@@ -206,6 +209,13 @@ Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Ell
 
 #### 2021
 
+###### .
+
+### [Modeling Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://link.springer.com/content/pdf/10.1007/s10519-021-10090-8.pdf)
+
+Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/2021_12_behagen_gxe_hetero.pdf)
+
+###### .
 ###### .
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
