@@ -111,29 +111,33 @@ Princeton, NJ 08544
 ###### .
 ###### .
 
-<body style="line-height: 1.5;">
-My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, biosocial, and computational methods, and my research capitalizes on two data sources that, until recently, were unavailable to researchers: (1) large administrative datasets and (2) longitudinal studies containing molecular genetic data. 
+My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, biosocial, and computational methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. 
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Most of my work in human genomics surrounds polygenic scores, measures meant to summarize a person’s genetic predisposition for a trait, ranging from height to depression to cognitive ability. While polygenic scores are becoming more and more predictive of a many social, behavioral, and health outcomes, there is much work to be done understanding what exactly is 'in' a polygenic score. I study how the social environment mediates, moderates, and confounds observed associations between genes and outcomes. 
+One branch of my research surrounds polygenic scores, measures meant to summarize a person’s genetic predisposition for a trait (ranging from height to depression to cognitive ability). While polygenic scores are becoming more and more predictive of social, behavioral, and health outcomes, there is much work to be done understanding what exactly is 'in' a polygenic score. I study how the social environment mediates, moderates, and confounds associations between genes and outcomes. 
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Another strand of my research leverages experimental manipulation and natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. This work highlights how policies and institutions designed to foster health and educational development could benefit from a more unified treatment of these two intimately related life domains.
+Another strand of my research leverages both field and natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. My work in this area has examined, for example, childhood lead exposure, fatal school shootings, and economic segregation.
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-I am currently writing a book for Princeton University Press with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In it, we unpack various social, ethical, and policy issues related to the DNA revolution. The floodgates of genetic data have opened, resurfacing age-old debates and raising new questions. We hope our book presents a genuine middle ground, moving past the dichotomies—interpretivist vs. positivist, qualitative vs. quantitative, optimism vs. pessimism regarding biological explanations—that vex the biosocial sciences. 
+I am currently writing a book for Princeton University Press with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In it, we unpack social, ethical, and policy issues related to the DNA revolution. The floodgates of genetic data have opened, resurfacing age-old debates and raising new questions. We hope our book presents a genuine middle ground, moving past the dichotomies—interpretivist vs. positivist, qualitative vs. quantitative, optimism vs. pessimism regarding biological explanations—that vex the biosocial sciences. 
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/strejo/files/2020_01_la_times_kidney.pdf) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Remarkably, after a person donates one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png). When not puzzling over human behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that my [170-year-old house](https://scholar.princeton.edu/sites/default/files/strejo/files/house.jpg?m=1639680187) does not collapse.
+I recently co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. Remarkably, after a person donates one of their kidneys, the other grows to compensate—mine is [still growing](https://scholar.princeton.edu/sites/default/files/strejo/files/kidney.png).
 </body> 
+<br>
+<br>
+<body style="line-height: 1.5;">
+When not puzzling over humans and their behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that my [170-year-old house](https://scholar.princeton.edu/sites/default/files/strejo/files/house.jpg?m=1639680187) does not collapse.
+</body>
 
 <!-- 
 ********************************************************************************
@@ -167,16 +171,18 @@ Last year, I wrote an [op-ed](https://scholar.princeton.edu/sites/default/files/
 ###### .
 ###### .
 
+### [Not in My School District: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
+
+Marissa Thompson\* and **Sam Trejo**\*.
+
+###### .
+###### .
+
 ### [The Psychosocial Effects of the Flint Water Crisis on School-Age Children](https://www.nber.org/papers/w29341)
 
 **Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *NBER Working Paper*.
-
-###### .
-###### .
-
-### [Not in My School District: Experimental Evidence on the Effect of Information on Parental Preferences for School Segregation](https://www.samtrejo.com)
-
-Marissa Thompson\* and **Sam Trejo**\*.
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/_2021_11_flint.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/_2022_05_flint_policy_brief.pdf)
 
 ###### .
 ###### .
@@ -287,6 +293,16 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 ### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
 **Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. *Sociological Science*.
+
+# \
+
+#### 2016
+
+###### .
+
+### [An Econometric Analysis of the Major Choice of First-Generation College Students](http://www.inquiriesjournal.com/articles/1407/first-generation-college-students-college-major-choices)
+**Sam Trejo**. *The Developing Economist*.
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/2016_05_devecon_firstgen_major.pdf)
 
 # \
 
