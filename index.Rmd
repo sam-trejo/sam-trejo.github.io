@@ -111,7 +111,7 @@ Princeton, NJ 08544
 ###### .
 ###### .
 
-My name is Sam Trejo—I am a quantitative social scientist interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, biosocial, and computational methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. 
+My name is Sam Trejo—I am a sociologist interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. 
 </body> 
 <br>
 <br>
@@ -179,12 +179,6 @@ Marissa Thompson\* and **Sam Trejo**\*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/_2021_11_flint.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/_2022_05_flint_policy_brief.pdf)
 
-###### .
-###### .
-
-### [False Discovery in the Analysis of Interactions as a Function of the Distributional and Metric Properties of the Outcome](https://psyarxiv.com/932fm/)
-
-Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Elliot M. Tucker-Drob. *SocArXiv*.
 
 ###### .
 ###### .
@@ -210,6 +204,14 @@ Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv
 
 #### 2022
 
+###### .
+
+
+### [Ubiquitous Bias and False Discovery Due to Model Misspecification in Analysis of Statistical Interactions: The Role of the Outcome's Distribution and Metric Properties](https://psyarxiv.com/932fm/)
+
+Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. Forthcoming at *Psychological Methods*.
+
+###### .
 ###### .
 
 ### [Ethical, Anticipatory Genomics Research on Human Behavior Means Celebrating Disagreement](https://doi.org/10.1016/j.xhgg.2021.100080)
