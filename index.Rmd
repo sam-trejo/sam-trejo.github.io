@@ -206,10 +206,16 @@ Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv
 
 ###### .
 
+### [Beware the Phony Horserace between Genes and Environments](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
 
-### [Ubiquitous Bias and False Discovery Due to Model Misspecification in Analysis of Statistical Interactions: The Role of the Outcome's Distribution and Metric Properties](https://psyarxiv.com/932fm/)
+**Sam Trejo** and Daphne Martschenko. Forthcoming at *Behavioral and Brain Sciences Methods*.
 
-Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. Forthcoming at *Psychological Methods*.
+###### .
+###### .
+
+### [Ubiquitous Bias and False Discovery Due to Model Misspecification in Analysis of Statistical Interactions: The Role of the Outcome's Distribution and Metric Properties](https://psycnet.apa.org/doi/10.1037/met0000532)
+
+Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. *Psychological Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_10_psymeth_inter_prob.pdf)
 
 ###### .
 ###### .
