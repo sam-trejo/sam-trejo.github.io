@@ -30,6 +30,7 @@ pagetitle: "Sam Trejo"
 ********************************************************************************
 -->
 
+
 <div class="column-left">
 
 <img src="images/sam.JPG" style="width: 90%">
@@ -61,7 +62,7 @@ PRINCETON UNIVERSITY
 ###### .
 
 <h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78">
-Wallace Hall <br>
+187 Wallace Hall <br>
 Princeton, NJ 08544
 </h4>
 
@@ -79,7 +80,6 @@ Princeton, NJ 08544
 
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
-
 
 ###### .
 ###### .
@@ -131,7 +131,7 @@ I am currently writing a book for Princeton University Press with my friend and 
 <br>
 <br>
 <body style="line-height: 1.5;">
-I recently co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I enjoy camping, riding bikes, playing board games, eating Chinese food, and working to ensure that my [170-year-old house](https://scholar.princeton.edu/sites/default/files/strejo/files/house.jpg?m=1639680187) does not collapse.
+I recently co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I enjoy camping, playing board games, hiking with my dog [Pickle](https://scholar.princeton.edu/sites/default/files/styles/os_files_xxlarge/public/strejo/files/pickle.jpg), and making sure that my [170-year-old house](https://scholar.princeton.edu/sites/default/files/strejo/files/house.jpg?m=1639680187) does not collapse. You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
 </body>
 
 <!-- 
@@ -176,8 +176,8 @@ Marissa Thompson\* and **Sam Trejo**\*.
 ### [The Psychosocial Effects of the Flint Water Crisis on School-Age Children](https://www.nber.org/papers/w29341)
 
 **Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *NBER Working Paper*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/_2021_11_flint.pdf)
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/_2022_05_flint_policy_brief.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2021_11_flint.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
 
 
 ###### .
@@ -190,7 +190,7 @@ Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv
 ###### .
 ###### .
 
-### [Exploring Genetics Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
+### [Exploring Genetic Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
 
 **Sam Trejo**. *SocArXiv*.
 
@@ -232,14 +232,14 @@ Daphne Martschenko* and **Sam Trejo**\*. *Human Genetics and Genomics Advances*.
 
 ### [Modeling Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://link.springer.com/content/pdf/10.1007/s10519-021-10090-8.pdf)
 
-Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/2021_12_behagen_gxe_hetero.pdf)
+Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf)
 
 ###### .
 ###### .
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
 
-Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/2021_09_natgen_gwas_faq.pdf)
+Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_09_natgen_gwas_faq.pdf)
 
 # \
 
@@ -257,7 +257,7 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 ### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
 Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/rossin-slater_shoot_pnas_2020.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
 [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
@@ -269,8 +269,8 @@ Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lin
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
 
 Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue.  *Psychological Science*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020.pdf)
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/armstrong-carter_gennurt_psysci_2020_faq.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur_faq.pdf)
 
 # \
 
@@ -280,7 +280,7 @@ Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason,
 
 ### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
 **Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://ssc.wisc.edu/~samtrejo/pdf/trejo_gennurt_bdsb_2019.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2019_12_biodem_gennur_bias.pdf)
 
 ###### .
 ###### .
@@ -305,7 +305,7 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 
 ### [An Econometric Analysis of the Major Choice of First-Generation College Students](http://www.inquiriesjournal.com/articles/1407/first-generation-college-students-college-major-choices)
 **Sam Trejo**. *The Developing Economist*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://scholar.princeton.edu/sites/default/files/strejo/files/2016_05_devecon_firstgen_major.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2016_05_devecon_firstgen_major.pdf)
 
 # \
 
