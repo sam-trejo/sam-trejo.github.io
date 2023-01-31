@@ -73,7 +73,7 @@ Princeton, NJ 08544
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Links </h2>
 
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Curriculum Vitae </span>
-](https://scholar.princeton.edu/sites/default/files/strejo/files/_trejo_cv.pdf)
+](https://scholar.princeton.edu/sites/default/files/strejo/files/trejo_cv.pdf)
 
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Princeton Sociology </span>
 ](https://sociology.princeton.edu/people/sam-trejo)

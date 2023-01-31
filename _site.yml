@@ -5,7 +5,7 @@ navbar:
     title: "<h4> SAM TREJO </h4>"
     right:
     - text: "CURRICULUM VITAE"
-      href: https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo_cv.pdf      
+      href: https://scholar.princeton.edu/sites/default/files/strejo/files/trejo_cv.pdf      
 
 output:
   html_document:
