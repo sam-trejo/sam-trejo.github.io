@@ -200,17 +200,17 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 
 Marissa Thompson\* and **Sam Trejo**\*. Conditionally Accepted at *Sociology of Education*.
 
-# \
-
-#### 2022
-
+###### .
 ###### .
 
 ### [Beware the Phony Horserace between Genes and Environments](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
 
 **Sam Trejo** and Daphne Martschenko. Forthcoming at *Behavioral and Brain Sciences Methods*.
 
-###### .
+# \
+
+#### 2022
+
 ###### .
 
 ### [Ubiquitous Bias and False Discovery Due to Model Misspecification in Analysis of Statistical Interactions: The Role of the Outcome's Distribution and Metric Properties](https://psycnet.apa.org/doi/10.1037/met0000532)
