@@ -111,7 +111,7 @@ Princeton, NJ 08544
 ###### .
 ###### .
 
-My name is Sam Trejo—I am a sociologist interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. 
+My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. 
 </body> 
 <br>
 <br>
@@ -166,9 +166,9 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 ###### .
 ###### .
 
-### [Not in My School District: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
+### [The Phenotype Differences Model Reveals Genetic Effects on Mortality Using Incomplete Sibling Data](https://osf.io/preprints/socarxiv/us924/)
 
-Marissa Thompson\* and **Sam Trejo**\*.
+**Sam Trejo** and Klint Kanopka. *APC Working Paper*.
 
 ###### .
 ###### .
@@ -178,14 +178,6 @@ Marissa Thompson\* and **Sam Trejo**\*.
 **Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *NBER Working Paper*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2021_11_flint.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
-
-
-###### .
-###### .
-
-### [An Ordinal Model for Analysis of Years of Education](https://osf.io/preprints/socarxiv/3d9zg/)
-
-Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv*.
 
 ###### .
 ###### .
@@ -201,6 +193,14 @@ Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv
 ##### .
 
 ###### .
+
+#### 2023
+
+### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
+
+Marissa Thompson\* and **Sam Trejo**\*. Conditionally Accepted at *Sociology of Education*.
+
+# \
 
 #### 2022
 
@@ -318,6 +318,13 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 ### [Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study](https://osf.io/preprints/socarxiv/eh9tq/)
 
 Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
+
+###### .
+###### .
+
+### [An Ordinal Model for Analysis of Years of Education](https://osf.io/preprints/socarxiv/3d9zg/)
+
+Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, and Jeremy Freese. *SocArXiv*.
 
 </div>
 
