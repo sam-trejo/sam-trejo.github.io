@@ -131,7 +131,7 @@ I am currently writing a book for Princeton University Press with my friend and 
 <br>
 <br>
 <body style="line-height: 1.5;">
-I recently co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I enjoy camping, playing board games, hiking with my dog [Pickle](https://scholar.princeton.edu/sites/default/files/styles/os_files_xxlarge/public/strejo/files/pickle.jpg), and making sure that my [170-year-old house](https://scholar.princeton.edu/sites/default/files/strejo/files/house.jpg?m=1639680187) does not collapse. You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
+I recently co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I enjoy camping, playing board games, hiking with my dog [Pickle](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/2023-07/pickle.jpg), and making sure that my [170-year-old house](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/2022-10/house.jpg) does not collapse. You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
 </body>
 
 <!-- 
@@ -200,7 +200,7 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
 
-Marissa Thompson\* and **Sam Trejo**\*. Conditionally Accepted at *Sociology of Education*.
+Marissa Thompson\* and **Sam Trejo**\*. Forthcoming at *Sociology of Education*.
 
 ###### .
 ###### .
