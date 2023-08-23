@@ -156,13 +156,23 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 
 <span>
   <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78; letter-spacing: 2.5px; float: left"> * DENOTES JOINT LEAD AUTHORSHIP </b>
-  <b style="font-size: 15pt; color:#0BA868; float: right"> ●  </b>
-  <b style="font-size: 15pt; float: right"> FAQ &nbsp; </b>
-  <b style="font-size: 15pt; color:#49aeee; float: right"> ● &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; </b>
-  <b style="font-size: 15pt; float: right"> PDF &nbsp; </b>
+  <b style="font-size: 15pt; color:#FF4335; float: right"> ●  </b>
+  <b style="font-size: 15pt; float: right"> Pre-Reg </b>
+  <b style="font-size: 15pt; color:#8754FC; float: right"> ● &nbsp;&nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; float: right"> Data/Code </b>
+  <b style="font-size: 15pt; color:#0BA868; float: right"> ● &nbsp;&nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; float: right"> FAQ </b>
+  <b style="font-size: 15pt; color:#49AEEE; float: right"> ● &nbsp;&nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; float: right"> PDF </b>  
 </span>
 
 ###### .
+
+### [“They have Black in their blood”: Exploring How Genetic Ancestry Tests Affect Racial Appraisals and Classifications](https://osf.io/preprints/socarxiv/8tnrk/)
+
+Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #FF4335;">●</span>](https://osf.io/dj9pt/)
+
 ###### .
 ###### .
 
@@ -201,6 +211,9 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
 
 Marissa Thompson\* and **Sam Trejo**\*. Forthcoming at *Sociology of Education*.
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #FF4335;">●</span>](https://osf.io/ucvt6/)
+
 
 ###### .
 ###### .
