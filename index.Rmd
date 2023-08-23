@@ -146,26 +146,22 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 
 ##### .
 
-###### .
-###### .
-###### .
+<span>
+  <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78; float: right"> * Denotes joint lead authorship </b>
+  <b style="font-size: 15pt; color:#49AEEE; float: left"> ● </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> PDF &nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; color:#0BA868; float: left"> ● </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> FAQ &nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; color:#8754FC; float: left"> ● </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> Data/Code &nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; color:#F05A24; float: left"> ● </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> Pre-Reg </b>
+</span>
+<br>
 
 ## ● Working Papers
 
 ##### .
-
-<span>
-  <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78; letter-spacing: 2.5px; float: left"> * DENOTES JOINT LEAD AUTHORSHIP </b>
-  <b style="font-size: 15pt; float: right"> Pre-Reg </b>
-  <b style="font-size: 15pt; color:#F05A24; float: right"> ● </b>
-  <b style="font-size: 15pt; float: right"> Data/Code &nbsp;&nbsp;&nbsp; </b>
-  <b style="font-size: 15pt; color:#8754FC; float: right"> ● </b>
-  <b style="font-size: 15pt; float: right"> FAQ &nbsp;&nbsp;&nbsp; </b>
-  <b style="font-size: 15pt; color:#0BA868; float: right"> ● </b>
-  <b style="font-size: 15pt; float: right"> PDF &nbsp;&nbsp;&nbsp; </b>
-  <b style="font-size: 15pt; color:#49AEEE; float: right"> ● </b>
-</span>
-<br>
 
 ###### .
 
