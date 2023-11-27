@@ -186,13 +186,6 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2021_11_flint.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
 
-###### .
-###### .
-
-### [Exploring Genetic Influences on Birth Weight](https://osf.io/preprints/socarxiv/7j59q/)
-
-**Sam Trejo**. *SocArXiv*.
-
 # \
 
 ## ○ Published & Forthcoming Papers
@@ -205,12 +198,18 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 
 ###### .
 
+### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://osf.io/preprints/socarxiv/7j59q/)
+
+**Sam Trejo**. Forthcoming at *Social Forces*.
+
+###### .
+###### .
+
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
 
 Marissa Thompson\* and **Sam Trejo**\*. Forthcoming at *Sociology of Education*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/ucvt6/)
-
 
 ###### .
 ###### .
