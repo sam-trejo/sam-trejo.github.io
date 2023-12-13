@@ -205,9 +205,9 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 ###### .
 ###### .
 
-### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://osf.io/preprints/socarxiv/2wfjn/)
+### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://journals.sagepub.com/doi/10.1177/00380407231213342)
 
-Marissa Thompson\* and **Sam Trejo**\*. Forthcoming at *Sociology of Education*.
+Marissa Thompson\* and **Sam Trejo**\*. *Sociology of Education*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2023_12_socedu_seg_exp.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/ucvt6/)
 
