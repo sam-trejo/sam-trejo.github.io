@@ -177,15 +177,6 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 
 **Sam Trejo** and Klint Kanopka. *APC Working Paper*.
 
-###### .
-###### .
-
-### [The Psychosocial Effects of the Flint Water Crisis on School-Age Children](https://www.nber.org/papers/w29341)
-
-**Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *NBER Working Paper*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2021_11_flint.pdf)
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
-
 # \
 
 ## ○ Published & Forthcoming Papers
@@ -194,15 +185,27 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 
 ###### .
 
-#### 2023
+#### 2024
 
+###### .
+
+### [The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children](https://www.nber.org/papers/w29341)
+
+**Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. Forthcoming at *Science Advances*.
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2021_11_flint.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
+
+###### .
 ###### .
 
 ### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://osf.io/preprints/socarxiv/7j59q/)
 
 **Sam Trejo**. Forthcoming at *Social Forces*.
 
-###### .
+# \
+
+#### 2023
+
 ###### .
 
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://journals.sagepub.com/doi/10.1177/00380407231213342)
