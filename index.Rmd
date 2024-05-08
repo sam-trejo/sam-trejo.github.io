@@ -165,7 +165,7 @@ I recently co-wrote an [editorial](https://www.scientificamerican.com/article/sc
 
 ###### .
 
-### [Does Standard Adjustment For Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
+### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
 Ramina Sotoudeh\*, **Sam Trejo**, Arbel Harpak, Dalton Conley\*. *bioRxiv*.
 
