@@ -200,6 +200,7 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 
 **Sam Trejo**, Gloria Yeomans-Maldonado, and Brian Jacob. *Science Advances*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
 
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
 [WASHINGTON POST](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/),
