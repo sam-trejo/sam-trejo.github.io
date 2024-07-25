@@ -38,7 +38,11 @@ pagetitle: "Sam Trejo"
 ###### .
 ###### .
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </h4>
+<h4 style="font-size: 10pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </h4>
+
+###### .
+
+<h4 style="font-size: 10pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. Mcllwain University Preceptor </h4>
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
 
 ###### .
