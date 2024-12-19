@@ -196,6 +196,8 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 ### [Using the Phenotype Differences Model to Identify Genetic Effects in Samples of Partially Genotyped Sibling Pairs](https://www.pnas.org/doi/abs/10.1073/pnas.2405725121)
 
 **Sam Trejo** and Klint Kanopka. *The Proceedings of the National Academy of Sciences*.
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences
+)
 
 ###### .
 ###### .
@@ -207,7 +209,7 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
 
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
-[WASHINGTON POST](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/),
+[WASHINGTON POST I](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/), [WASHINGTON POST II](https://www.washingtonpost.com/nation/2024/08/08/lead-schools-pipes-testing/),
 [HARVARD PUBLIC HEALTH MAGAZINE](https://harvardpublichealth.org/environmental-health/the-children-of-the-flint-michigan-water-crisis-ten-years-later/),
 [PROPUBLICA](https://www.propublica.org/article/flint-michigan-water-crisis-ten-years-after),
 [M-LIVE](https://www.mlive.com/news/flint/2022/05/flint-kids-math-achievement-decreased-after-water-crisis-um-study-says.html)
@@ -221,10 +223,7 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 **Sam Trejo**. *Social Forces*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2024_02_socfor_gen_bw.pdf)
 
-# \
-
-#### 2023
-
+###### .
 ###### .
 
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://journals.sagepub.com/doi/10.1177/00380407231213342)
@@ -233,7 +232,10 @@ Marissa Thompson\* and **Sam Trejo**\*. *Sociology of Education*. [<span style="
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/ucvt6/)
 
-###### .
+# \
+
+#### 2023
+
 ###### .
 
 ### [Beware the Phony Horserace between Genes and Environments](https://doi.org/10.1017/S0140525X22002485)
