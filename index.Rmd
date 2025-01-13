@@ -33,7 +33,7 @@ pagetitle: "Sam Trejo"
 
 <div class="column-left">
 
-<img src="images/sam.JPG" style="width: 90%">
+<img src="images/sam.JPG" style="width: 99%">
 
 ###### .
 ###### .
@@ -296,7 +296,7 @@ Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lin
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
-[WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
+[PRESIDENTIAL ECONOMIC REPORT](https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf), [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </h4>
 
 ###### .
