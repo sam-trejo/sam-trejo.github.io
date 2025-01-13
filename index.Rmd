@@ -33,7 +33,7 @@ pagetitle: "Sam Trejo"
 
 <div class="column-left">
 
-<img src="images/sam_2024_12.jpg" style="width: 99%">
+<img src="images/sam_2024_12.jpg" style="width: 87%">
 
 ###### .
 ###### .
