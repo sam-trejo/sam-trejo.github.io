@@ -91,8 +91,11 @@ Princeton, NJ 08544
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Judge John Hodgman </span>
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Judge John Hodgman I</span>
 ](https://www.nytimes.com/2021/11/24/magazine/covid-love-story-sockgate.html)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Judge John Hodgman II</span>
+](https://www.nytimes.com/interactive/2025/05/20/magazine/11mag-hodgmanquiz.html)
 
 <!-- 
 ********************************************************************************
