@@ -133,7 +133,7 @@ Another strand of my research leverages both field and natural experiments to ex
 <br>
 <br>
 <body style="line-height: 1.5;">
-I am currently working on a book project entitled *What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future* with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In it, we unpack social, ethical, and policy issues related to the DNA revolution. The book is scheduled to be published by Princeton University Press in early 2026.
+I am currently working on a book project entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In it, we unpack social, ethical, and policy issues related to the DNA revolution. The book is scheduled to be published by Princeton University Press in early 2026.
 
 Over the past decade, the field of human genetics has rapidly produced a wide range of never-before-seen genomic tools — and, in order to grapple with their growing societal implications, we must take seriously both the effects of our DNA and the impact of pernicious genetic myths.
 
