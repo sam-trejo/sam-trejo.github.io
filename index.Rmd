@@ -133,15 +133,12 @@ Another strand of my research leverages both field and natural experiments to ex
 <br>
 <br>
 <body style="line-height: 1.5;">
-I am currently working on a book project entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist specializing in mixed methods and critical theory. In it, we unpack social, ethical, and policy issues related to the DNA revolution. The book is scheduled to be published by Princeton University Press in early 2026.
-
-Over the past decade, the field of human genetics has rapidly produced a wide range of never-before-seen genomic tools — and, in order to grapple with their growing societal implications, we must take seriously both the effects of our DNA and the impact of pernicious genetic myths.
-
+I recently wrote a book entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist as Stanford University. Over the past decade, the field of human genetics has rapidly produced a wide range of never-before-seen genomic tools; together, Daphne and I debate and discuss a range of social, ethical, and policy issues raised by this so-called DNA revolution. Though there's plenty we disagree about, we share a firm belief that—in order to successfully navigate the transition to a society where genetic prediction is increasingly accurate and available—it is vital that we take seriously the impact both of DNA and of pernicious genetic myths. *What We Inherit* will be published by Princeton University Press in February 2026. 
 </body> 
 <br>
 <br>
 <body style="line-height: 1.5;">
-I recently co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I love biking, playing board games, and spending time with my partner [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
+I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I love biking, playing board games, and spending time with my partner [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
 </body>
 
 <!-- 
@@ -202,6 +199,23 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 
 ###### .
 
+#### 2025
+
+###### .
+
+### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
+
+Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
+
+###### .
+###### .
+
+### [Genotypic and Socioeconomic Risks for Depressive Symptoms in Two U.S. Cohorts Spanning Early to Older Adulthood](https://psycnet.apa.org/doi/10.1037/abn0001051)
+
+David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. Klimentidis. *Journal of Psychopathology and Clinical Science*.
+
+# \
+
 #### 2024
 
 ###### .
@@ -209,8 +223,7 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 ### [Using the Phenotype Differences Model to Identify Genetic Effects in Samples of Partially Genotyped Sibling Pairs](https://www.pnas.org/doi/abs/10.1073/pnas.2405725121)
 
 **Sam Trejo** and Klint Kanopka. *The Proceedings of the National Academy of Sciences*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences
-)
+[<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences)
 
 ###### .
 ###### .
@@ -257,7 +270,7 @@ Marissa Thompson\* and **Sam Trejo**\*. *Sociology of Education*. [<span style="
 
 ### [Beware the Phony Horserace between Genes and Environments](https://doi.org/10.1017/S0140525X22002485)
 
-**Sam Trejo** and Daphne Martschenko. *Behavioral and Brain Sciences Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
+**Sam Trejo** and Daphne Martschenko. *Behavioral and Brain Sciences*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
 
 # \
 
@@ -267,7 +280,7 @@ Marissa Thompson\* and **Sam Trejo**\*. *Sociology of Education*. [<span style="
 
 ### [Ubiquitous Bias and False Discovery Due to Model Misspecification in Analysis of Statistical Interactions: The Role of the Outcome's Distribution and Metric Properties](https://psycnet.apa.org/doi/10.1037/met0000532)
 
-Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. *Psychological Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_10_psymeth_inter_prob.pdf)
+Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. *Psychological Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_10_psymeth_inter_prob.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/interaction-problems)
 
 ###### .
 ###### .
@@ -284,7 +297,7 @@ Daphne Martschenko* and **Sam Trejo**\*. *Human Genetics and Genomics Advances*.
 
 ### [Modeling Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://link.springer.com/content/pdf/10.1007/s10519-021-10090-8.pdf)
 
-Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf)
+Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/scalingGxE)
 
 ###### .
 ###### .
@@ -302,7 +315,7 @@ Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**. 
 
 ### [Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges](https://sociologicalscience.com/articles-v7-19-465/)
 
-Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*.
+Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
 
 ###### .
 ###### .
