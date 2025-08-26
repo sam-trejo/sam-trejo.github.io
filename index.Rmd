@@ -118,27 +118,21 @@ Princeton, NJ 08544
 ###### .
 ###### .
 
-My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. 
-</body> 
-<br>
-<br>
 <body style="line-height: 1.5;">
+<p style="text-align: justify;">
+My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data.
+</p>
+<p style="text-align: justify;">
 One branch of my research surrounds polygenic scores, measures meant to summarize a person’s genetic predisposition for a trait (ranging from height to depression to cognitive ability). While polygenic scores are becoming more and more predictive of social, behavioral, and health outcomes, there is much work to be done understanding what exactly is 'in' a polygenic score. I study how the social environment mediates, moderates, and confounds associations between genes and outcomes. 
-</body> 
-<br>
-<br>
-<body style="line-height: 1.5;">
+</p>
+<p style="text-align: justify;">
 Another strand of my research leverages both field and natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. My work in this area has examined, for example, childhood lead exposure, fatal school shootings, and economic segregation.
-</body> 
-<br>
-<br>
-<body style="line-height: 1.5;">
-I recently wrote a book entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist as Stanford University. Over the past decade, the field of human genetics has rapidly produced a wide range of never-before-seen genomic tools; together, Daphne and I debate and discuss a range of social, ethical, and policy issues raised by this so-called DNA revolution. Though there's plenty we disagree about, we share a firm belief that—in order to successfully navigate the transition to a society where genetic prediction is increasingly accurate and available—it is vital that we take seriously the impact both of DNA and of pernicious genetic myths. *What We Inherit* will be published by Princeton University Press in February 2026. 
-</body> 
-<br>
-<br>
-<body style="line-height: 1.5;">
-I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote an [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I love biking, playing board games, and spending time with my partner [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
+</p>
+<p style="text-align: justify;">
+I recently wrote a book entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist at Stanford University. Over the past decade, the field of human genetics has rapidly produced a wide range of never-before-seen genomic tools; together, Daphne and I debate and discuss a range of social, ethical, and policy issues raised by this so-called DNA revolution. Though there's plenty we disagree about, we share a firm belief that—in order to successfully navigate the transition to a society where genetic prediction is increasingly accurate and available—it is vital that we take seriously the impact both of DNA and of pernicious genetic myths. *What We Inherit* will be published by Princeton University Press in February 2026.
+</p>
+<p style="text-align: justify;">
+I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote a [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I love biking, playing board games, and spending time with my partner [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
 </body>
 
 <!-- 
@@ -154,13 +148,13 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 ##### .
 
 <span>
-  <b style="font-size: 10pt; font-family: 'DM Mono'; color: #7E7E78; float: right"> * Denotes joint lead authorship </b>
+  <b style="font-size: 9pt; font-family: 'DM Mono'; color: #7E7E78; float: right"> &nbsp; * Joint lead authorship &nbsp; § Senior authorship </b> 
   <b style="font-size: 15pt; color:#49AEEE; float: left"> ● </b>
-  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> PDF &nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> PDF &nbsp; </b>
   <b style="font-size: 15pt; color:#0BA868; float: left"> ● </b>
-  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> FAQ &nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> FAQ &nbsp; </b>
   <b style="font-size: 15pt; color:#8754FC; float: left"> ● </b>
-  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> Data/Code &nbsp;&nbsp; </b>
+  <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> Data/Code &nbsp; </b>
   <b style="font-size: 15pt; color:#F05A24; float: left"> ● </b>
   <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> Pre-Reg </b>
 </span>
@@ -172,24 +166,23 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 
 ###### .
 
+### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v1)
+
+Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
+
+###### .
+###### .
+
 ### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
-Luyin Zhang and **Sam Trejo**. *SocArXiv*.
+Luyin Zhang and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
 
 ###### .
 ###### .
 
 ### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
-Ramina Sotoudeh\*, **Sam Trejo**, Arbel Harpak, and Dalton Conley\*. *bioRxiv*.
-
-###### .
-###### .
-
-### [“They Have Black in Their Blood”: Exploring How Genetic Ancestry Tests Affect Racial Appraisals and Classifications](https://osf.io/preprints/socarxiv/8tnrk/)
-
-Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
-[<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
+Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. *bioRxiv*.
 
 # \
 
@@ -199,15 +192,18 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. *SocArXiv*.
 
 ###### .
 
+#### 2026
+
+###### .
+
+### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/) [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
+
+Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
+
+# \
+
 #### 2025
 
-###### .
-
-### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
-
-Marissa Thompson, Sam Trejo, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
-
-###### .
 ###### .
 
 ### [Genotypic and Socioeconomic Risks for Depressive Symptoms in Two U.S. Cohorts Spanning Early to Older Adulthood](https://psycnet.apa.org/doi/10.1037/abn0001051)
@@ -258,7 +254,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://journals.sagepub.com/doi/10.1177/00380407231213342)
 
-Marissa Thompson\* and **Sam Trejo**\*. *Sociology of Education*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2023_12_socedu_seg_exp.pdf)
+Marissa Thompson<sup>\*</sup> and **Sam Trejo**<sup>\*</sup>. *Sociology of Education*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2023_12_socedu_seg_exp.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/ucvt6/)
 
@@ -270,7 +266,7 @@ Marissa Thompson\* and **Sam Trejo**\*. *Sociology of Education*. [<span style="
 
 ### [Beware the Phony Horserace between Genes and Environments](https://doi.org/10.1017/S0140525X22002485)
 
-**Sam Trejo** and Daphne Martschenko. *Behavioral and Brain Sciences*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
+**Sam Trejo**<sup>\*</sup> and Daphne Martschenko<sup>\*</sup>. *Behavioral and Brain Sciences*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
 
 # \
 
@@ -287,7 +283,7 @@ Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot 
 
 ### [Ethical, Anticipatory Genomics Research on Human Behavior Means Celebrating Disagreement](https://doi.org/10.1016/j.xhgg.2021.100080)
 
-Daphne Martschenko* and **Sam Trejo**\*. *Human Genetics and Genomics Advances*.
+Daphne Martschenko* and **Sam Trejo**<sup>\*</sup>. *Human Genetics and Genomics Advances*.
 
 # \
 
@@ -297,7 +293,7 @@ Daphne Martschenko* and **Sam Trejo**\*. *Human Genetics and Genomics Advances*.
 
 ### [Modeling Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://link.springer.com/content/pdf/10.1007/s10519-021-10090-8.pdf)
 
-Benjamin W. Domingue\*, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob\*. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/scalingGxE)
+Benjamin W. Domingue<sup>\*</sup>, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob<sup>§</sup>. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/scalingGxE)
 
 ###### .
 ###### .
@@ -322,7 +318,7 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 
 ### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
-Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lindsey Uniat.  *The Proceedings of the National Academy of Sciences*.
+Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup>\*</sup>, **Sam Trejo**, and Lindsey Uniat.  *The Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
 <h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
@@ -334,7 +330,7 @@ Maya Rossin-Slater\*, Molly Schnell\*, Hannes Schwandt\*, **Sam Trejo**, and Lin
 
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
 
-Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue.  *Psychological Science*.
+Emma Armstrong-Carter<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, Liam Hill, Kirsty Crossley, Dan Mason, and Benjamin W. Domingue<sup>§</sup>.  *Psychological Science*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur_faq.pdf)
 
@@ -352,7 +348,7 @@ Emma Armstrong-Carter\*, **Sam Trejo**\*, Liam Hill, Kirsty Crossley, Dan Mason,
 ###### .
 
 ### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
-Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
+Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Domingue<sup>\*</sup>.  *AERA Open*.
 
 # \
 
@@ -361,7 +357,7 @@ Daphne Martschenko\*, **Sam Trejo**\*, and Benjamin W. Domingue\*.  *AERA Open*.
 ###### .
 
 ### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
-**Sam Trejo**\*, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue\*. *Sociological Science*.
+**Sam Trejo**<sup>\*</sup>, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue<sup>§</sup>. *Sociological Science*.
 
 # \
 
