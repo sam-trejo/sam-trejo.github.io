@@ -1,6 +1,7 @@
 ---
 title: " "
 pagetitle: "Sam Trejo"
+lang: en
 ---
 
 <style>
@@ -120,7 +121,7 @@ Princeton, NJ 08544
 
 <body style="line-height: 1.5;">
 <p style="text-align: justify;">
-My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data.
+My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
 </p>
 <p style="text-align: justify;">
 One branch of my research surrounds polygenic scores, measures meant to summarize a person’s genetic predisposition for a trait (ranging from height to depression to cognitive ability). While polygenic scores are becoming more and more predictive of social, behavioral, and health outcomes, there is much work to be done understanding what exactly is 'in' a polygenic score. I study how the social environment mediates, moderates, and confounds associations between genes and outcomes. 
