@@ -36,44 +36,36 @@ lang: en
 
 <img src="images/sam_2024_12.jpg" style="width: 90%" alt="Sam Trejo Headshot">
 
-###### .
-###### .
-
 <h4 style="font-size: 10pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </h4>
 
-###### .
+<div style="font-size: 4pt;"> <br> </div>
 
 <h4 style="font-size: 10pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. Mcllwain University Preceptor </h4>
 <h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
-
-###### .
 
 <h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px;">
 PRINCETON UNIVERSITY
 </h4>      
 
-###### .
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Contact </h2>
 
 <h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c"> samtrejo *[at]* princeton *[dot]* edu </h4>
 
-###### .
+<div style="font-size: 4pt;"> <br> </div>
 
 <h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c"> \(609) 258-4436 </h4>
 
-###### .
+<div style="font-size: 4pt;"> <br> </div>
 
 <h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c">
 187 Wallace Hall <br>
 Princeton, NJ 08544
 </h4>
 
-###### .
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Links </h2>
 
@@ -86,9 +78,8 @@ Princeton, NJ 08544
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
 
-###### .
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
@@ -115,9 +106,7 @@ Princeton, NJ 08544
 
 ##### .
 
-###### .
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 <body style="line-height: 1.5;">
 <p style="text-align: justify;">
@@ -142,7 +131,7 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 ********************************************************************************
 -->
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 # Research
 
@@ -163,67 +152,67 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 
 ## ● Working Papers
 
-##### .
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
 
 Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
 Luyin Zhang and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
 Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. *bioRxiv*.
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 ## ○ Published & Forthcoming Papers
 
-##### .
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 #### 2026
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
 
 Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2025
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Genotypic and Socioeconomic Risks for Depressive Symptoms in Two U.S. Cohorts Spanning Early to Older Adulthood](https://psycnet.apa.org/doi/10.1037/abn0001051)
 
 David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. Klimentidis. *Journal of Psychopathology and Clinical Science*.
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2024
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Using the Phenotype Differences Model to Identify Genetic Effects in Samples of Partially Genotyped Sibling Pairs](https://www.pnas.org/doi/abs/10.1073/pnas.2405725121)
 
 **Sam Trejo** and Klint Kanopka. *The Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences)
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children](https://www.science.org/doi/10.1126/sciadv.adk4737)
 
@@ -238,8 +227,8 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 [M-LIVE](https://www.mlive.com/news/flint/2022/05/flint-kids-math-achievement-decreased-after-water-crisis-um-study-says.html)
 </h4>
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://doi.org/10.1093/sf/soae018)
 
@@ -250,8 +239,8 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 \**WINNER OF THE 2025 BEST PAPER AWARD (ASA BIOLOGY \& SOCIETY SECTION)*\*
 </h4>
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://journals.sagepub.com/doi/10.1177/00380407231213342)
 
@@ -259,63 +248,63 @@ Marissa Thompson<sup>\*</sup> and **Sam Trejo**<sup>\*</sup>. *Sociology of Educ
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2023_08_socedu_seg_exp)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/ucvt6/)
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2023
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Beware the Phony Horserace between Genes and Environments](https://doi.org/10.1017/S0140525X22002485)
 
 **Sam Trejo**<sup>\*</sup> and Daphne Martschenko<sup>\*</sup>. *Behavioral and Brain Sciences*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_12_bbs_horserace.pdf)
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2022
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Ubiquitous Bias and False Discovery Due to Model Misspecification in Analysis of Statistical Interactions: The Role of the Outcome's Distribution and Metric Properties](https://psycnet.apa.org/doi/10.1037/met0000532)
 
 Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. *Psychological Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_10_psymeth_inter_prob.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/interaction-problems)
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Ethical, Anticipatory Genomics Research on Human Behavior Means Celebrating Disagreement](https://doi.org/10.1016/j.xhgg.2021.100080)
 
 Daphne Martschenko* and **Sam Trejo**<sup>\*</sup>. *Human Genetics and Genomics Advances*.
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2021
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Modeling Interaction and Dispersion Effects in the Analysis of Gene-Environment Interaction](https://link.springer.com/content/pdf/10.1007/s10519-021-10090-8.pdf)
 
 Benjamin W. Domingue<sup>\*</sup>, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob<sup>§</sup>. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/scalingGxE)
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
 
 Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**.  *Nature Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_09_natgen_gwas_faq.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://www.thehastingscenter.org/genomic-findings-on-social-and-behavioral-outcomes-faqs/)
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2020
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Interactions Between Polygenic Scores and Environments: Methodological and Conceptual Challenges](https://sociologicalscience.com/articles-v7-19-465/)
 
 Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
@@ -326,8 +315,8 @@ Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup
 [PRESIDENTIAL ECONOMIC REPORT](https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf), [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </h4>
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
 
@@ -335,53 +324,52 @@ Emma Armstrong-Carter<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, Liam Hill, Kirst
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_05_psysci_prenat_gennur_faq.pdf)
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2019
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Genetic Nature or Genetic Nurture? Introducing Social Genetic Parameters to Quantify Bias in Polygenic Score Analyses](https://www.tandfonline.com/doi/abs/10.1080/19485565.2019.1681257)
 **Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2019_12_biodem_gennur_bias.pdf)
 
-###### .
-###### .
+<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
 Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Domingue<sup>\*</sup>.  *AERA Open*.
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2018
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
 **Sam Trejo**<sup>\*</sup>, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue<sup>§</sup>. *Sociological Science*.
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 #### 2016
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [An Econometric Analysis of the Major Choice of First-Generation College Students](http://www.inquiriesjournal.com/articles/1407/first-generation-college-students-college-major-choices)
 **Sam Trejo**. *The Developing Economist*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2016_05_devecon_firstgen_major.pdf)
 
-# \
+<div style="font-size: 40px;"> <br> </div>
 
 ## ● Resting Papers
 
-##### .
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
-###### .
+<div style="font-size: 8pt;"> <br> </div>
 
 ### [Problems with a Causal Interpretation of Polygenic Score Differences between Jewish and non-Jewish Respondents in the Wisconsin Longitudinal Study](https://osf.io/preprints/socarxiv/eh9tq/)
 
 Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
-
 
 <br>
 <br>
