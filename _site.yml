@@ -2,7 +2,7 @@
 title: "Sam Trejo"
 name: "website"
 navbar:
-    title: "<h4> SAM TREJO </h4>"
+    title: "<h5> SAM TREJO </h5>"
     right:
     - text: "CURRICULUM VITAE"
       href: https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo-cv.pdf      

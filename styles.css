@@ -122,16 +122,11 @@
   font-named-instance: 'Italic';
 }
 
-
-
 /*
 @supports (font-variation-settings: normal) {
   html { font-family: 'Inter var', sans-serif; }
 }
 */
-
-
-
 
 a:link {
   color: Black;
@@ -172,15 +167,7 @@ h2 {
   color: Black;
 }
 
-h3 {
-  font-family: 'Inter';
-  font-size: 14pt;
-  font-weight: 600;
-  text-decoration: underline;
-  color: Black;
-}
-
-h4{
+h3{
   font-family: 'DM Mono';
   font-size: 18pt;
   font-weight: 500;
@@ -188,6 +175,21 @@ h4{
   letter-spacing: 3px;
 }
 
+h4 {
+  font-family: 'Inter';
+  font-size: 14pt;
+  font-weight: 600;
+  text-decoration: underline;
+  color: Black;
+}
+
+h5{
+  font-family: 'DM Mono';
+  font-size: 18pt;
+  font-weight: 500;
+  color: Black;
+  letter-spacing: 3px;
+}
 
 body{
   font-family: 'Inter';
