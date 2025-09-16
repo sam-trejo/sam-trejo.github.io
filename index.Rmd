@@ -34,7 +34,7 @@ lang: en
 
 <div class="column-left">
 
-<img src="images/sam_2024_12.jpg" style="width: 87%">
+<img src="images/sam_2024_12.jpg" style="width: 90%" alt="Sam Trejo Headshot">
 
 ###### .
 ###### .
@@ -48,7 +48,7 @@ lang: en
 
 ###### .
 
-<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px;">
+<h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px;">
 PRINCETON UNIVERSITY
 </h4>      
 
@@ -58,15 +58,15 @@ PRINCETON UNIVERSITY
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Contact </h2>
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78"> samtrejo *[at]* princeton *[dot]* edu </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c"> samtrejo *[at]* princeton *[dot]* edu </h4>
 
 ###### .
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78"> \(609) 258-4436 </h4>
+<h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c"> \(609) 258-4436 </h4>
 
 ###### .
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #7E7E78">
+<h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c">
 187 Wallace Hall <br>
 Princeton, NJ 08544
 </h4>
@@ -77,13 +77,13 @@ Princeton, NJ 08544
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Links </h2>
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Curriculum Vitae </span>
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Curriculum Vitae </span>
 ](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo-cv.pdf)
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Princeton Sociology </span>
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Princeton Sociology </span>
 ](https://sociology.princeton.edu/people/sam-trejo)
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Google Scholar </span>
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
 
 ###### .
@@ -92,10 +92,10 @@ Princeton, NJ 08544
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Judge John Hodgman I</span>
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Judge John Hodgman I</span>
 ](https://www.nytimes.com/2021/11/24/magazine/covid-love-story-sockgate.html)
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #7E7E78"> Judge John Hodgman II</span>
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Judge John Hodgman II</span>
 ](https://www.nytimes.com/interactive/2025/05/20/magazine/11mag-hodgmanquiz.html)
 
 <!-- 
@@ -149,7 +149,7 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 ##### .
 
 <span>
-  <b style="font-size: 9pt; font-family: 'DM Mono'; color: #7E7E78; float: right"> &nbsp; * Joint lead authorship &nbsp; § Senior authorship </b> 
+  <b style="font-size: 9pt; font-family: 'DM Mono'; color: #71716c; float: right"> &nbsp; * Joint lead authorship &nbsp; § Senior authorship </b> 
   <b style="font-size: 15pt; color:#49AEEE; float: left"> ● </b>
   <b style="font-size: 15pt; font-family: 'DM Mono'; float: left"> PDF &nbsp; </b>
   <b style="font-size: 15pt; color:#0BA868; float: left"> ● </b>
@@ -197,9 +197,9 @@ Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup
 
 ###### .
 
-### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/) [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
+### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://osf.io/preprints/socarxiv/8tnrk/)
 
-Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*.
+Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
 
 # \
 
@@ -231,7 +231,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
 
-<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
+<h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 [WASHINGTON POST I](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/), [WASHINGTON POST II](https://www.washingtonpost.com/nation/2024/08/08/lead-schools-pipes-testing/),
 [HARVARD PUBLIC HEALTH MAGAZINE](https://harvardpublichealth.org/environmental-health/the-children-of-the-flint-michigan-water-crisis-ten-years-later/),
 [PROPUBLICA](https://www.propublica.org/article/flint-michigan-water-crisis-ten-years-after),
@@ -322,7 +322,7 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup>\*</sup>, **Sam Trejo**, and Lindsey Uniat.  *The Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
-<h4 style="font-size: 10pt; color: #7E7E78; letter-spacing: 2.5px; line-height: 1;">
+<h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 [PRESIDENTIAL ECONOMIC REPORT](https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf), [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </h4>
 
@@ -382,5 +382,20 @@ Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Dom
 
 Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
 
+
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 </div>
+
+<div style="clear: both;"></div>
+<footer class="full-width-footer">
+    <p>&copy; `r format(Sys.Date(), "%Y")` Sam Trejo.</p>
+</footer>
+
 

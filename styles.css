@@ -154,7 +154,7 @@ a:active {
 }
 
 .navbar-default {
-    background-color: #f4f4f4;
+    background-color: #f9f8f4;
 }
 
 h1 {
@@ -193,7 +193,7 @@ h5{
   font-size: 0;
   line-height: 0;
   padding-bottom: 1px; 
-  border-bottom: 1.25pt solid #7E7E78;
+  border-bottom: 1.25pt solid #71716c;
 }
 
 h6{
@@ -206,8 +206,8 @@ body{
   font-family: 'Inter';
   font-weight: 400;
   font-size: 12pt;
-  background-color: #f4f4f4;
-  color: #7E7E78;
+  background-color: #f9f8f4;
+  color: #71716c;
   margin: auto;
   max-width: 1325px
 }
