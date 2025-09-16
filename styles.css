@@ -188,19 +188,6 @@ h4{
   letter-spacing: 3px;
 }
 
-h5{
-  font-family: 'Inter';
-  font-size: 0;
-  line-height: 0;
-  padding-bottom: 1px; 
-  border-bottom: 1.25pt solid #71716c;
-}
-
-h6{
-  font-family: 'Inter';
-  font-size: 0;
-  line-height: 0;
-}
 
 body{
   font-family: 'Inter';

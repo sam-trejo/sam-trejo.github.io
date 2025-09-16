@@ -36,36 +36,35 @@ lang: en
 
 <img src="images/sam_2024_12.jpg" style="width: 90%" alt="Sam Trejo Headshot">
 
-<h4 style="font-size: 10pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </h4>
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </p>
 
 <div style="font-size: 4pt;"> <br> </div>
 
-<h4 style="font-size: 10pt; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. Mcllwain University Preceptor </h4>
-<h4 style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </h4>
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. Mcllwain University Preceptor </p>
+<p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
-<h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px;">
+<div style="font-size: 4pt;"> <br> </div>
+
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px;">
 PRINCETON UNIVERSITY
-</h4>      
+</p>      
 
 <div style="font-size: 8pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Contact </h2>
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c"> samtrejo *[at]* princeton *[dot]* edu </h4>
+<p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c"> samtrejo *[at]* princeton *[dot]* edu </p>
 
 <div style="font-size: 4pt;"> <br> </div>
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c"> \(609) 258-4436 </h4>
+<p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c">  \(609) 258-4436 </p>
 
 <div style="font-size: 4pt;"> <br> </div>
 
-<h4 style="font-size: 12pt; letter-spacing: 1px; color: #71716c">
-187 Wallace Hall <br>
-Princeton, NJ 08544
-</h4>
+<p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c"> 187 Wallace Hall <br>
+Princeton, NJ 08544 </p>
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Links </h2>
 
@@ -78,8 +77,7 @@ Princeton, NJ 08544
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
@@ -104,9 +102,9 @@ Princeton, NJ 08544
 
 # Biography
 
-##### .
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 <body style="line-height: 1.5;">
 <p style="text-align: justify;">
@@ -135,7 +133,7 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 
 # Research
 
-##### .
+<p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <span>
   <b style="font-size: 9pt; font-family: 'DM Mono'; color: #71716c; float: right"> &nbsp; * Joint lead authorship &nbsp; § Senior authorship </b> 
@@ -160,15 +158,13 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 
 Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
 Luyin Zhang and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
@@ -211,8 +207,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 **Sam Trejo** and Klint Kanopka. *The Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences)
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [The Effects of the Flint Water Crisis on the Educational Outcomes of School-Age Children](https://www.science.org/doi/10.1126/sciadv.adk4737)
 
@@ -220,27 +215,25 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
 
-<h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 [WASHINGTON POST I](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/), [WASHINGTON POST II](https://www.washingtonpost.com/nation/2024/08/08/lead-schools-pipes-testing/),
 [HARVARD PUBLIC HEALTH MAGAZINE](https://harvardpublichealth.org/environmental-health/the-children-of-the-flint-michigan-water-crisis-ten-years-later/),
 [PROPUBLICA](https://www.propublica.org/article/flint-michigan-water-crisis-ten-years-after),
 [M-LIVE](https://www.mlive.com/news/flint/2022/05/flint-kids-math-achievement-decreased-after-water-crisis-um-study-says.html)
-</h4>
+</p>
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [Exploring the Fetal Origins Hypothesis Using Genetic Data](https://doi.org/10.1093/sf/soae018)
 
 **Sam Trejo**. *Social Forces*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2024_02_socfor_gen_bw.pdf)
 
-<h4 style="font-size: 10pt; color: Black; letter-spacing: 2.5px; line-height: 1;">
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 2.5px; line-height: 1;">
 \**WINNER OF THE 2025 BEST PAPER AWARD (ASA BIOLOGY \& SOCIETY SECTION)*\*
-</h4>
+</p>
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [*My* School District Isn't Segregated: Experimental Evidence on the Effect of Information on Parental Preferences Regarding School Segregation](https://journals.sagepub.com/doi/10.1177/00380407231213342)
 
@@ -268,8 +261,7 @@ Marissa Thompson<sup>\*</sup> and **Sam Trejo**<sup>\*</sup>. *Sociology of Educ
 
 Benjamin W. Domingue, Klint Kanopka, **Sam Trejo**, Mijke Rhemtulla, and Elliot M. Tucker-Drob. *Psychological Methods*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_10_psymeth_inter_prob.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/interaction-problems)
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [Ethical, Anticipatory Genomics Research on Human Behavior Means Celebrating Disagreement](https://doi.org/10.1016/j.xhgg.2021.100080)
 
@@ -285,8 +277,7 @@ Daphne Martschenko* and **Sam Trejo**<sup>\*</sup>. *Human Genetics and Genomics
 
 Benjamin W. Domingue<sup>\*</sup>, Klint Kanopka, Travis T. Mallard, **Sam Trejo**, and Elliot M. Tucker-Drob<sup>§</sup>. *Behavior Genetics*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_12_behagen_gxe_hetero.pdf) [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/ben-domingue/scalingGxE)
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [FoGS Provides a Public FAQ Repository for Social and Behavioral Genomic Discoveries](https://www.nature.com/articles/s41588-021-00929-5)
 
@@ -303,20 +294,18 @@ Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**. 
 
 Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Drob.  *Sociological Science*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://gist.github.com/ben-domingue/6f14e3c4532ecb62df5f6e0c44c60411)
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
 Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup>\*</sup>, **Sam Trejo**, and Lindsey Uniat.  *The Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
-<h4 style="font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 [PRESIDENTIAL ECONOMIC REPORT](https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf), [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
-</h4>
+</p>
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [The Earliest Origins of Genetic Nurture: The Prenatal Environment Mediates the Association Between Maternal Genetics and Child Development](https://journals.sagepub.com/doi/10.1177/0956797620917209)
 
@@ -334,8 +323,7 @@ Emma Armstrong-Carter<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, Liam Hill, Kirst
 **Sam Trejo** and Benjamin W. Domingue.  *Biodemography and Social Biology*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2019_12_biodem_gennur_bias.pdf)
 
-<div style="font-size: 8pt;"> <br> </div>
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 ### [Genetics and Education: Recent Developments in the Context of an Ugly History and an Uncertain Future](https://journals.sagepub.com/doi/10.1177/2332858418810516)
 Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Domingue<sup>\*</sup>.  *AERA Open*.
@@ -383,7 +371,7 @@ Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela H
 
 <div style="clear: both;"></div>
 <footer class="full-width-footer">
-    <p>&copy; `r format(Sys.Date(), "%Y")` Sam Trejo.</p>
+    <p>&copy; `r format(Sys.Date(), "%Y")` Sam Trejo. All rights reserved.</p>
 </footer>
 
 
