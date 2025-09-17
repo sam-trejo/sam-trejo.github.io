@@ -49,7 +49,7 @@ lang: en
 PRINCETON UNIVERSITY
 </p>      
 
-<div style="font-size: 8pt;"> <br> </div>
+<div style="font-size: 14pt;"> <br> </div>
 
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Contact </h2>
 
@@ -71,11 +71,17 @@ Princeton, NJ 08544 </p>
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Curriculum Vitae </span>
 ](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo-cv.pdf)
 
-[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Princeton Sociology </span>
-](https://sociology.princeton.edu/people/sam-trejo)
-
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Princeton Sociology Department </span>
+](https://sociology.princeton.edu/people/sam-trejo)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Princeton Biosociology Lab </span>
+](http://bio.sociology.princeton.edu/)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> *What We Inherit* </span>
+](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit)
 
 <div style="font-size: 14pt;"> <br> </div>
 
