@@ -160,6 +160,12 @@ I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-
 
 <div style="font-size: 8pt;"> <br> </div>
 
+#### [DNA Reveals the Growing Ancestral Diversity of the United States](https://osf.io/preprints/socarxiv/ncakt_v1)
+
+Luyin Zhang and **Sam Trejo**<sup>§</sup>. *APC Working Paper*.
+
+<div style="font-size: 14pt;"> <br> </div>
+
 #### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
 
 Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
