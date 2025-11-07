@@ -2,20 +2,22 @@
 
 /* Headers */
 
-@import url('https://fonts.googleapis.com/css?family=DM+Mono');
+@import url('https://fonts.googleapis.com/css?family=DM+Mono&display=swap');
 
-/* @import url('https://fonts.googleapis.com/css?family=Inter'); */
+@import url('https://fonts.googleapis.com/css?family=Inter&display=swap'); 
 
-
+/*
 <link rel="preload" href="fonts/Inter-Regular.woff2" as="font" type="font/woff2" crossorigin>
 
 :root { font-family: 'Inter', sans-serif; }
   @supports (font-variation-settings: normal) {
     :root { font-family: 'Inter var', sans-serif; }
   }
+*/
 
-------------------------- static ------------------------- */
+/*------------------------- static ------------------------- */
 
+/*
 @font-face {
   font-family: 'Inter';
   font-style:  normal;
@@ -33,6 +35,8 @@
   src: url("fonts/Inter-ThinItalic.woff2") format("woff2"),
        url("fonts/Inter-ThinItalic.woff") format("woff");
 }
+*/
+
 
 @font-face {
   font-family: 'Inter';
