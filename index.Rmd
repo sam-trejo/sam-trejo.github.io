@@ -216,7 +216,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 
 #### [Using the Phenotype Differences Model to Identify Genetic Effects in Samples of Partially Genotyped Sibling Pairs](https://www.pnas.org/doi/abs/10.1073/pnas.2405725121)
 
-**Sam Trejo** and Klint Kanopka. *The Proceedings of the National Academy of Sciences*.
+**Sam Trejo** and Klint Kanopka. *Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/phenotype_differences)
 
 <div style="font-size: 14pt;"> <br> </div>
@@ -310,7 +310,7 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 
 #### [Local Exposure to School Shootings and Youth Antidepressant Use](https://www.pnas.org/content/117/38/23484)
 
-Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup>\*</sup>, **Sam Trejo**, and Lindsey Uniat.  *The Proceedings of the National Academy of Sciences*.
+Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup>\*</sup>, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
