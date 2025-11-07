@@ -85,6 +85,16 @@ Princeton, NJ 08544 </p>
 
 <div style="font-size: 14pt;"> <br> </div>
 
+<h2 style="border-bottom: .5pt solid; line-height: 2;">  Popular Writing </h2>
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Los Angeles Times </span>
+](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage)
+
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Scientific American </span>
+](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/)
+
+<div style="font-size: 14pt;"> <br> </div>
+
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Judge John Hodgman I</span>
@@ -114,19 +124,16 @@ Princeton, NJ 08544 </p>
 
 <body style="line-height: 1.5;">
 <p style="text-align: justify;">
-My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods, and my research typically utilizes large administrative datasets and longitudinal studies containing molecular genetic data. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
+My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods. My research has been published in a range of academic journals, including *PNAS*, *Science Advances*, the *American Journal of Sociology*, and *Sociological Science*. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
 </p>
 <p style="text-align: justify;">
-One branch of my research surrounds polygenic scores, measures meant to summarize a person’s genetic predisposition for a trait (ranging from height to depression to cognitive ability). While polygenic scores are becoming more and more predictive of social, behavioral, and health outcomes, there is much work to be done understanding what exactly is 'in' a polygenic score. I study how the social environment mediates, moderates, and confounds associations between genes and outcomes. 
+My work encompasses two primary research areas. The first integrates genomic information into the social and behavioral sciences. This includes utilizing polygenic scores to analyze genetic risk factors and gene-environment interactions, as well as employing genetic ancestry measures to explore racial and ethnic identity formation and demographic change. My second research area leverages field and natural experiments to investigate the factors that produce educational and health inequalities, with particular attention to the reciprocal relationship between education and health. This work has examined topics such as childhood lead exposure, fatal school shootings, and economic segregation.
 </p>
 <p style="text-align: justify;">
-Another strand of my research leverages both field and natural experiments to explore the processes that produce educational and health inequality, with an emphasis on the reciprocal relationship between education and health. My work in this area has examined, for example, childhood lead exposure, fatal school shootings, and economic segregation.
+I recently co-authored a book with Stanford University bioethicist [Daphne Martschenko](https://daphnemartschenko.com) entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) (forthcoming from Princeton University Press). Over the past decades, human genetics has rapidly produced an array of unprecedented genomic tools. In the book, Daphne and I debate and discuss the social, ethical, and policy issues raised by this DNA revolution. While we disagree on many points, we share a firm belief that successfully navigating the transition to a society with increasingly accurate and available genetic prediction requires taking seriously both the impact of DNA and the dangers of pernicious genetic myths. *What We Inherit* will be released on February 3, 2026.
 </p>
 <p style="text-align: justify;">
-I recently wrote a book entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) with my friend and colleague [Daphne Martschenko](https://daphnemartschenko.com), a bioethicist at Stanford University. Over the past decade, the field of human genetics has rapidly produced a wide range of never-before-seen genomic tools; together, Daphne and I debate and discuss a range of social, ethical, and policy issues raised by this so-called DNA revolution. Though there's plenty we disagree about, we share a firm belief that—in order to successfully navigate the transition to a society where genetic prediction is increasingly accurate and available—it is vital that we take seriously the impact both of DNA and of pernicious genetic myths. *What We Inherit* will be published by Princeton University Press in February 2026.
-</p>
-<p style="text-align: justify;">
-I co-wrote an [editorial](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/) on the misappropriation of genomics research by white supremacists. A few years ago, I wrote a [piece](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage) about how my experiences with nerve damage and chronic pain led me to donate a kidney to a stranger. When not puzzling over humans and their behavior, I love biking, playing board games, and spending time with my wife [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). You can find the R code that I used to create this website [here](https://github.com/sam-trejo/sam-trejo.github.io).
+When not puzzling over human behavior, I enjoy biking, playing board games, and spending time with my wife [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). The R code used to create this website is available [here](https://github.com/sam-trejo/sam-trejo.github.io).
 </body>
 
 <!-- 
