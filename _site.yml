@@ -4,7 +4,9 @@ name: "website"
 navbar:
     title: "<h5> SAM TREJO </h5>"
     right:
-    - text: "CURRICULUM VITAE"
+    - text: "         BOOK         "
+      href: https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit    
+    - text: "         CURRICULUM VITAE         "
       href: https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo-cv.pdf      
 
 output:
