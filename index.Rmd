@@ -1,8 +1,19 @@
 ---
-title: " "
-pagetitle: "Sam Trejo"
-lang: en
+# =============================================================================
+# YAML METADATA
+# =============================================================================
+title: " "              # Leave blank to avoid printing a visible page title
+pagetitle: "Sam Trejo"  # Browser tab title / page title in site metadata
+lang: en                # Page language (useful for accessibility/SEO)
 ---
+
+<!-- =============================================================================
+CUSTOM CSS FOR A SIMPLE 3-COLUMN LAYOUT
+- Left column: sidebar (photo/contact/links)
+- Center column: spacer
+- Right column: main content (bio + research)
+NOTE: Uses floats for left/right, with a spacer div in the middle.
+============================================================================= -->
 
 <style>
 .column-left{
@@ -23,131 +34,182 @@ lang: en
 }
 </style>
 
+<!-- A manual line break/spacing hack used in some Rmd/HTML setups -->
 \
 
 <!-- 
 ********************************************************************************
-
+SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 ********************************************************************************
 -->
 
 
+<!-- =============================================================================
+LEFT COLUMN (SIDEBAR)
+Contains: headshot, titles, contact info, links, popular writing, fun links
+============================================================================= -->
 <div class="column-left">
 
+<!-- Headshot image (relative path within site) -->
 <img src="images/sam_2024_12.jpg" style="width: 90%" alt="Sam Trejo Headshot">
 
+<!-- Position / title line -->
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Assistant Professor of Sociology </p>
 
+<!-- Small vertical spacer -->
 <div style="font-size: 4pt;"> <br> </div>
 
+<!-- Additional title line -->
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. McIlwain University Preceptor </p>
+
+<!-- Thin underline separator -->
 <p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
+<!-- Small vertical spacer -->
 <div style="font-size: 4pt;"> <br> </div>
 
+<!-- Institution label -->
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px;">
 PRINCETON UNIVERSITY
 </p>      
 
+<!-- Larger vertical spacer -->
 <div style="font-size: 14pt;"> <br> </div>
 
+<!-- ========================= CONTACT ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Contact </h2>
 
+<!-- Email with mild obfuscation to deter scraping -->
 <p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c"> samtrejo *[at]* princeton *[dot]* edu </p>
 
 <div style="font-size: 4pt;"> <br> </div>
 
+<!-- Phone number (wrapped with \( \) so parentheses render reliably in some markdown parsers) -->
 <p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c">  \(609) 258-4436 </p>
 
 <div style="font-size: 4pt;"> <br> </div>
 
+<!-- Office address -->
 <p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c"> 187 Wallace Hall <br>
 Princeton, NJ 08544 </p>
 
 <div style="font-size: 14pt;"> <br> </div>
 
+<!-- ========================= LINKS ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Links </h2>
 
+<!-- CV -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Curriculum Vitae </span>
 ](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo-cv.pdf)
 
+<!-- Google Scholar -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Google Scholar </span>
 ](https://scholar.google.com/citations?user=EfCyhY0AAAAJ&hl=en)
 
+<!-- Department page -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Princeton Sociology Department </span>
 ](https://sociology.princeton.edu/people/sam-trejo)
 
+<!-- Lab page -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Princeton Biosociology Lab </span>
 ](http://bio.sociology.princeton.edu/)
 
+<!-- Book page -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> *What We Inherit* </span>
 ](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit)
 
 <div style="font-size: 14pt;"> <br> </div>
 
+<!-- ========================= POPULAR WRITING ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Popular Writing </h2>
 
+<!-- LA Times -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Los Angeles Times </span>
 ](https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage)
 
+<!-- Scientific American -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Scientific American </span>
 ](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/)
 
 <div style="font-size: 14pt;"> <br> </div>
 
+<!-- ========================= FUN ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
+<!-- NYT Magazine piece -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Judge John Hodgman I</span>
 ](https://www.nytimes.com/2021/11/24/magazine/covid-love-story-sockgate.html)
 
+<!-- NYT interactive -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Judge John Hodgman II</span>
 ](https://www.nytimes.com/interactive/2025/05/20/magazine/11mag-hodgmanquiz.html)
 
 <!-- 
 ********************************************************************************
-
+SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 ********************************************************************************
 -->
 
 </div>
 
+<!-- =============================================================================
+CENTER COLUMN (SPACER)
+Empty by design; creates horizontal whitespace between sidebar and main content
+============================================================================= -->
 <div class="column-center">
 </div>
 
+<!-- =============================================================================
+RIGHT COLUMN (MAIN CONTENT)
+Contains: Biography + Research listings
+============================================================================= -->
 <div class="column-right">
 
 # Biography
 
+<!-- Thick underline divider beneath the section header -->
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 14pt;"> <br> </div>
 
+<!-- Body tag used to set line height for the biography text block -->
 <body style="line-height: 1.5;">
+
+<!-- Bio paragraph 1 -->
 <p style="text-align: justify;">
 My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods. My research has been published in a range of academic journals, including *PNAS*, *Science Advances*, the *American Journal of Sociology*, and *Sociological Science*. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
 </p>
+
+<!-- Bio paragraph 2 -->
 <p style="text-align: justify;">
 My work encompasses two primary research areas. The first integrates genomic information into the social and behavioral sciences. This includes utilizing polygenic scores to analyze genetic risk factors and gene-environment interactions, as well as employing genetic ancestry measures to explore racial and ethnic identity formation and demographic change. My second research area leverages field and natural experiments to investigate the factors that produce educational and health inequalities, with particular attention to the reciprocal relationship between education and health. This work has examined topics such as childhood lead exposure, fatal school shootings, and economic segregation.
 </p>
+
+<!-- Bio paragraph 3 (book announcement + links) -->
 <p style="text-align: justify;">
 I recently co-authored a book with Stanford University bioethicist [Daphne Martschenko](https://daphnemartschenko.com) entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) (forthcoming from Princeton University Press). Over the past decades, human genetics has rapidly produced an array of unprecedented genomic tools. In the book, Daphne and I debate and discuss the social, ethical, and policy issues raised by this DNA revolution. While we disagree on many points, we share a firm belief that successfully navigating the transition to a society with increasingly accurate and available genetic prediction requires taking seriously both the impact of DNA and the dangers of pernicious genetic myths. *What We Inherit* will be released on **February 3, 2026**. A Q&A containing more information about the book can be found [here](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/What_We_Inherit_Q%26A.pdf).
 </p>
+
+<!-- Bio paragraph 4 (personal + repo link) -->
 <p style="text-align: justify;">
 When not puzzling over human behavior, I enjoy biking, playing board games, and spending time with my wife [Marissa](https://marissaethompson.com/) and our dog [Pickle](https://photos.app.goo.gl/wS9an7ZmGzV35Z2C6). The R code used to create this website is available [here](https://github.com/sam-trejo/sam-trejo.github.io).
 </body>
 
 <!-- 
 ********************************************************************************
-
+SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 ********************************************************************************
 -->
 
+<!-- Large vertical spacer before Research section -->
 <div style="font-size: 40px;"> <br> </div>
 
 # Research
 
+<!-- Underline divider beneath Research header -->
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
+<!-- Legend explaining icons/colors used in publication list -->
 <span>
   <b style="font-size: 9pt; font-family: 'DM Mono'; color: #71716c; float: right"> &nbsp; * Joint lead authorship &nbsp; § Senior authorship </b> 
   <b style="font-size: 15pt; color:#49AEEE; float: left"> ● </b>
@@ -161,6 +223,7 @@ When not puzzling over human behavior, I enjoy biking, playing board games, and 
 </span>
 <br>
 
+<!-- ========================= WORKING PAPERS ========================= -->
 ## ● Working Papers
 
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
@@ -191,12 +254,14 @@ Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= PUBLISHED & FORTHCOMING ========================= -->
 ## ○ Published & Forthcoming Papers
 
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 8pt;"> <br> </div>
 
+<!-- ========================= YEAR: 2026 ========================= -->
 ### 2026
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -207,6 +272,7 @@ Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. Forthcoming 
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2025 ========================= -->
 ### 2025
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -217,6 +283,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2024 ========================= -->
 ### 2024
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -234,6 +301,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #0BA868;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/_2022_05_flint_policy_brief.pdf)
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/sam-trejo/2024_03_sciadv_flint)
 
+<!-- Press links for Flint paper -->
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 [WASHINGTON POST I](https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/), [WASHINGTON POST II](https://www.washingtonpost.com/nation/2024/08/08/lead-schools-pipes-testing/),
 [HARVARD PUBLIC HEALTH MAGAZINE](https://harvardpublichealth.org/environmental-health/the-children-of-the-flint-michigan-water-crisis-ten-years-later/),
@@ -248,6 +316,7 @@ David A. Sbarra, **Sam Trejo**, K. Paige Harden, Jeffrey C. Oliver, and Yann C. 
 **Sam Trejo**. *Social Forces*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2024_02_socfor_gen_bw.pdf)
 
+<!-- Award note -->
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 2.5px; line-height: 1;">
 \**WINNER OF THE 2025 BEST PAPER AWARD (ASA BIOLOGY \& SOCIETY SECTION)*\*
 </p>
@@ -262,6 +331,7 @@ Marissa Thompson<sup>\*</sup> and **Sam Trejo**<sup>\*</sup>. *Sociology of Educ
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2023 ========================= -->
 ### 2023
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -272,6 +342,7 @@ Marissa Thompson<sup>\*</sup> and **Sam Trejo**<sup>\*</sup>. *Sociology of Educ
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2022 ========================= -->
 ### 2022
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -288,6 +359,7 @@ Daphne Martschenko* and **Sam Trejo**<sup>\*</sup>. *Human Genetics and Genomics
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2021 ========================= -->
 ### 2021
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -305,6 +377,7 @@ Daphne Martschenko, Benjamin W. Domingue, Lucas J. Matthews, and **Sam Trejo**. 
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2020 ========================= -->
 ### 2020
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -320,6 +393,7 @@ Benjamin W. Domingue, **Sam Trejo**, Emma Armstrong-Carter, and Elliot Tucker-Dr
 Maya Rossin-Slater<sup>\*</sup>, Molly Schnell<sup>\*</sup>, Hannes Schwandt<sup>\*</sup>, **Sam Trejo**, and Lindsey Uniat.  *Proceedings of the National Academy of Sciences*.
 [<span style="font-size: 15pt; font-family: 'Inter'; color: #49aeee;">●</span>](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf)
 
+<!-- Press links for school shootings paper -->
 <p style="font-family: 'DM Mono'; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 [PRESIDENTIAL ECONOMIC REPORT](https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf), [WASHINGTON POST](https://www.washingtonpost.com/business/2019/12/18/antidepressant-use-by-children-jumps-more-than-percent-after-school-shooting-data-show/), [LOS ANGELES TIMES](https://www.latimes.com/science/story/2019-12-16/fatal-school-shootings-antidepressants), [THE HILL](https://thehill.com/changing-america/well-being/mental-health/475161-study-finds-high-antidepressant-use-for-shooting)
 </p>
@@ -334,6 +408,7 @@ Emma Armstrong-Carter<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, Liam Hill, Kirst
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2019 ========================= -->
 ### 2019
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -349,6 +424,7 @@ Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Dom
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2018 ========================= -->
 ### 2018
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -358,6 +434,7 @@ Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Dom
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= YEAR: 2016 ========================= -->
 ### 2016
 
 <div style="font-size: 8pt;"> <br> </div>
@@ -368,6 +445,7 @@ Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Dom
 
 <div style="font-size: 40px;"> <br> </div>
 
+<!-- ========================= RESTING PAPERS ========================= -->
 ## ● Resting Papers
 
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;"> </p>
@@ -378,6 +456,7 @@ Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Dom
 
 Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela Herd. *SocArXiv*.
 
+<!-- Bottom padding / whitespace at end of right column -->
 <br>
 <br>
 <br>
@@ -388,9 +467,15 @@ Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, **Sam Trejo**, and Pamela H
 <br>
 </div>
 
+<!-- =============================================================================
+CLEAR FLOATS SO FOOTER SITS BELOW COLUMNS
+============================================================================= -->
 <div style="clear: both;"></div>
+
+<!-- =============================================================================
+FOOTER
+- Uses inline R code to print the current year dynamically
+============================================================================= -->
 <footer class="full-width-footer">
     <p>&copy; `r format(Sys.Date(), "%Y")` Sam Trejo. All rights reserved.</p>
 </footer>
-
-

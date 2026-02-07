@@ -266,6 +266,13 @@ $(document).ready(function () {
 </div>
 
 
+<!-- =============================================================================
+CUSTOM CSS FOR A SIMPLE 3-COLUMN LAYOUT
+- Left column: sidebar (photo/contact/links)
+- Center column: spacer
+- Right column: main content (bio + research)
+NOTE: Uses floats for left/right, with a spacer div in the middle.
+============================================================================= -->
 <style>
 .column-left{
   float: left;
@@ -284,73 +291,96 @@ $(document).ready(function () {
 
 }
 </style>
+<!-- A manual line break/spacing hack used in some Rmd/HTML setups -->
 <p><br />
 </p>
 <!-- 
 ********************************************************************************
-
+SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 ********************************************************************************
 -->
+<!-- =============================================================================
+LEFT COLUMN (SIDEBAR)
+Contains: headshot, titles, contact info, links, popular writing, fun links
+============================================================================= -->
 <div class="column-left">
+<!-- Headshot image (relative path within site) -->
 <p><img src="images/sam_2024_12.jpg" style="width: 90%" alt="Sam Trejo Headshot"></p>
+<!-- Position / title line -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;">
 Assistant Professor of Sociology
 </p>
+<!-- Small vertical spacer -->
 <div style="font-size: 4pt;">
 <br>
 </div>
+<!-- Additional title line -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;">
 Charles H. McIlwain University Preceptor
 </p>
+<!-- Thin underline separator -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 12pt; color: Black; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;">
 </p>
+<!-- Small vertical spacer -->
 <div style="font-size: 4pt;">
 <br>
 </div>
+<!-- Institution label -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 10pt; color: #71716c; letter-spacing: 2.5px;">
 PRINCETON UNIVERSITY
 </p>
+<!-- Larger vertical spacer -->
 <div style="font-size: 14pt;">
 <br>
 </div>
+<!-- ========================= CONTACT ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">
  Contact
 </h2>
+<!-- Email with mild obfuscation to deter scraping -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c">
 samtrejo <em>[at]</em> princeton <em>[dot]</em> edu
 </p>
 <div style="font-size: 4pt;">
 <br>
 </div>
+<!-- Phone number (wrapped with \( \) so parentheses render reliably in some markdown parsers) -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c">
 (609) 258-4436
 </p>
 <div style="font-size: 4pt;">
 <br>
 </div>
+<!-- Office address -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 12pt; color: Black; font-size: 12pt; letter-spacing: 1px; color: #71716c">
 187 Wallace Hall <br> Princeton, NJ 08544
 </p>
 <div style="font-size: 14pt;">
 <br>
 </div>
+<!-- ========================= LINKS ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">
  Links
 </h2>
+<!-- CV -->
 <p><a
 href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/trejo-cv.pdf"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Curriculum Vitae </span></a></p>
+<!-- Google Scholar -->
 <p><a
 href="https://scholar.google.com/citations?user=EfCyhY0AAAAJ&amp;hl=en"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Google Scholar </span></a></p>
+<!-- Department page -->
 <p><a href="https://sociology.princeton.edu/people/sam-trejo"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Princeton Sociology Department </span></a></p>
+<!-- Lab page -->
 <p><a href="http://bio.sociology.princeton.edu/"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Princeton Biosociology Lab </span></a></p>
+<!-- Book page -->
 <p><a
 href="https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
@@ -358,13 +388,16 @@ style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; let
 <div style="font-size: 14pt;">
 <br>
 </div>
+<!-- ========================= POPULAR WRITING ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">
  Popular Writing
 </h2>
+<!-- LA Times -->
 <p><a
 href="https://www.latimes.com/opinion/story/2020-01-19/kidney-transplants-donors-shortage"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Los Angeles Times </span></a></p>
+<!-- Scientific American -->
 <p><a
 href="https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
@@ -372,35 +405,49 @@ Scientific American </span></a></p>
 <div style="font-size: 14pt;">
 <br>
 </div>
+<!-- ========================= FUN ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">
  Fun
 </h2>
+<!-- NYT Magazine piece -->
 <p><a
 href="https://www.nytimes.com/2021/11/24/magazine/covid-love-story-sockgate.html"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Judge John Hodgman I</span></a></p>
+<!-- NYT interactive -->
 <p><a
 href="https://www.nytimes.com/interactive/2025/05/20/magazine/11mag-hodgmanquiz.html"><span
 style="font-size: 12pt; font-family: &#39;DM Mono&#39;; font-weight: normal; letter-spacing: 1px; color: #71716c">
 Judge John Hodgman II</span></a></p>
 <!-- 
 ********************************************************************************
-
+SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 ********************************************************************************
 -->
 </div>
+<!-- =============================================================================
+CENTER COLUMN (SPACER)
+Empty by design; creates horizontal whitespace between sidebar and main content
+============================================================================= -->
 <div class="column-center">
 
 </div>
+<!-- =============================================================================
+RIGHT COLUMN (MAIN CONTENT)
+Contains: Biography + Research listings
+============================================================================= -->
 <div class="column-right">
 <div id="biography" class="section level1">
 <h1>Biography</h1>
+<!-- Thick underline divider beneath the section header -->
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;">
 </p>
 <div style="font-size: 14pt;">
 <br>
 </div>
+<!-- Body tag used to set line height for the biography text block -->
 <body style="line-height: 1.5;">
+<!-- Bio paragraph 1 -->
 <p style="text-align: justify;">
 My name is Sam Trejo—I am a sociologist and demographer interested in
 how social and biological factors jointly shape human development across
@@ -412,6 +459,7 @@ Advances</em>, the <em>American Journal of Sociology</em>, and
 href="http://bio.sociology.princeton.edu/">Princeton Biosociology
 Lab</a>.
 </p>
+<!-- Bio paragraph 2 -->
 <p style="text-align: justify;">
 My work encompasses two primary research areas. The first integrates
 genomic information into the social and behavioral sciences. This
@@ -425,6 +473,7 @@ between education and health. This work has examined topics such as
 childhood lead exposure, fatal school shootings, and economic
 segregation.
 </p>
+<!-- Bio paragraph 3 (book announcement + links) -->
 <p style="text-align: justify;">
 I recently co-authored a book with Stanford University bioethicist <a
 href="https://daphnemartschenko.com">Daphne Martschenko</a> entitled <a
@@ -443,6 +492,7 @@ myths. <em>What We Inherit</em> will be released on <strong>February 3,
 be found <a
 href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/What_We_Inherit_Q%26A.pdf">here</a>.
 </p>
+<!-- Bio paragraph 4 (personal + repo link) -->
 <p style="text-align: justify;">
 When not puzzling over human behavior, I enjoy biking, playing board
 games, and spending time with my wife <a
@@ -453,17 +503,20 @@ href="https://github.com/sam-trejo/sam-trejo.github.io">here</a>.
 </body>
 <!-- 
 ********************************************************************************
-
+SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 ********************************************************************************
 -->
+<!-- Large vertical spacer before Research section -->
 <div style="font-size: 40px;">
 <br>
 </div>
 </div>
 <div id="research" class="section level1">
 <h1>Research</h1>
+<!-- Underline divider beneath Research header -->
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: 1.5pt solid; line-height: 2; margin: 0; padding: .5pt;">
 </p>
+<!-- Legend explaining icons/colors used in publication list -->
 <p><span>
 <b style="font-size: 9pt; font-family: 'DM Mono'; color: #71716c; float: right">
   * Joint lead authorship   § Senior authorship </b>
@@ -476,6 +529,7 @@ href="https://github.com/sam-trejo/sam-trejo.github.io">here</a>.
 Data/Code   </b> <b style="font-size: 15pt; color:#F05A24; float: left">
 ● </b> <b style="font-size: 15pt; font-family: 'DM Mono'; float: left">
 Pre-Reg </b> </span> <br></p>
+<!-- ========================= WORKING PAPERS ========================= -->
 <div id="working-papers" class="section level2">
 <h2>● Working Papers</h2>
 <p style="font-size: 12pt; letter-spacing: 1px; border-bottom: .5pt solid; color: #717272; line-height: 2; margin: 0; padding: .5pt;">
@@ -528,6 +582,7 @@ Harpak, and Dalton Conley<sup>§</sup>. <em>bioRxiv</em>.</p>
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= PUBLISHED & FORTHCOMING ========================= -->
 </div>
 </div>
 <div id="published-forthcoming-papers" class="section level2">
@@ -537,6 +592,7 @@ Harpak, and Dalton Conley<sup>§</sup>. <em>bioRxiv</em>.</p>
 <div style="font-size: 8pt;">
 <br>
 </div>
+<!-- ========================= YEAR: 2026 ========================= -->
 <div id="section" class="section level3">
 <h3>2026</h3>
 <div style="font-size: 8pt;">
@@ -558,6 +614,7 @@ style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #F05A24;">●</span
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2025 ========================= -->
 </div>
 </div>
 <div id="section-1" class="section level3">
@@ -577,6 +634,7 @@ Clinical Science</em>.</p>
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2024 ========================= -->
 </div>
 </div>
 <div id="section-2" class="section level3">
@@ -610,6 +668,7 @@ href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documen
 style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #0BA868;">●</span></a>
 <a href="https://github.com/sam-trejo/2024_03_sciadv_flint"><span
 style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #8754FC;">●</span></a></p>
+<!-- Press links for Flint paper -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 <a
 href="https://www.washingtonpost.com/climate-environment/2024/03/13/flint-children-school-academic-setbacks/">WASHINGTON
@@ -635,6 +694,7 @@ Origins Hypothesis Using Genetic Data</a></h4>
 <p><strong>Sam Trejo</strong>. <em>Social Forces</em>. <a
 href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2024_02_socfor_gen_bw.pdf"><span
 style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #49aeee;">●</span></a></p>
+<!-- Award note -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 10pt; color: Black; letter-spacing: 2.5px; line-height: 1;">
 *<em>WINNER OF THE 2025 BEST PAPER AWARD (ASA BIOLOGY &amp; SOCIETY
 SECTION)</em>*
@@ -662,6 +722,7 @@ style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #F05A24;">●</span
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2023 ========================= -->
 </div>
 </div>
 <div id="section-3" class="section level3">
@@ -680,6 +741,7 @@ style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #49aeee;">●</span
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2022 ========================= -->
 </div>
 </div>
 <div id="section-4" class="section level3">
@@ -716,6 +778,7 @@ Disagreement</a></h4>
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2021 ========================= -->
 </div>
 </div>
 <div id="section-5" class="section level3">
@@ -757,6 +820,7 @@ style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #0BA868;">●</span
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2020 ========================= -->
 </div>
 </div>
 <div id="section-6" class="section level3">
@@ -790,6 +854,7 @@ Schwandt<sup>*</sup>, <strong>Sam Trejo</strong>, and Lindsey Uniat.
 <em>Proceedings of the National Academy of Sciences</em>. <a
 href="https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_09_pnas_school_shoot.pdf"><span
 style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #49aeee;">●</span></a></p>
+<!-- Press links for school shootings paper -->
 <p style="font-family: &#39;DM Mono&#39;; font-size: 10pt; color: #71716c; letter-spacing: 2.5px; line-height: 1;">
 <a
 href="https://www.whitehouse.gov/wp-content/uploads/2025/01/ERP-2025.pdf">PRESIDENTIAL
@@ -823,6 +888,7 @@ style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #0BA868;">●</span
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2019 ========================= -->
 </div>
 </div>
 <div id="section-7" class="section level3">
@@ -858,6 +924,7 @@ Trejo</strong><sup>*</sup>, and Benjamin W. Domingue<sup>*</sup>.
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2018 ========================= -->
 </div>
 </div>
 <div id="section-8" class="section level3">
@@ -879,6 +946,7 @@ Science</em>.</p>
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= YEAR: 2016 ========================= -->
 </div>
 </div>
 <div id="section-9" class="section level3">
@@ -899,6 +967,7 @@ style="font-size: 15pt; font-family: &#39;Inter&#39;; color: #49aeee;">●</span
 <div style="font-size: 40px;">
 <br>
 </div>
+<!-- ========================= RESTING PAPERS ========================= -->
 </div>
 </div>
 </div>
@@ -917,11 +986,19 @@ Causal Interpretation of Polygenic Score Differences between Jewish and
 non-Jewish Respondents in the Wisconsin Longitudinal Study</a></h4>
 <p>Jeremy Freese, Benjamin W. Domingue, Kamil Sicinski, <strong>Sam
 Trejo</strong>, and Pamela Herd. <em>SocArXiv</em>.</p>
+<!-- Bottom padding / whitespace at end of right column -->
 <br> <br> <br> <br> <br> <br> <br> <br>
 </div>
+<!-- =============================================================================
+CLEAR FLOATS SO FOOTER SITS BELOW COLUMNS
+============================================================================= -->
 <div style="clear: both;">
 
 </div>
+<!-- =============================================================================
+FOOTER
+- Uses inline R code to print the current year dynamically
+============================================================================= -->
 <footer class="full-width-footer">
 <p>
 © 2026 Sam Trejo. All rights reserved.
