@@ -40,7 +40,7 @@ lang: en
 
 <div style="font-size: 4pt;"> <br> </div>
 
-<p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. Mcllwain University Preceptor </p>
+<p style="font-family: 'DM Mono'; font-size: 10pt; color: Black; letter-spacing: 1px; line-height: 1; margin: 0; padding: 0;"> Charles H. McIlwain University Preceptor </p>
 <p style="font-family: 'DM Mono'; font-size: 12pt; color: Black; letter-spacing: 1px; border-bottom: .5pt solid; line-height: 2; margin: 0; padding: .5pt;"> </p>
 
 <div style="font-size: 4pt;"> <br> </div>
@@ -353,7 +353,7 @@ Daphne Martschenko<sup>\*</sup>, **Sam Trejo**<sup>\*</sup>, and Benjamin W. Dom
 
 <div style="font-size: 8pt;"> <br> </div>
 
-#### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Heath](https://sociologicalscience.com/articles-v5-22-513/)
+#### [Schools as Moderators of Genetic Associations with Life Course Attainments: Evidence from the WLS and Add Health](https://sociologicalscience.com/articles-v5-22-513/)
 **Sam Trejo**<sup>\*</sup>, Daniel W. Belsky, Jason D. Boardman, Jeremy Freese, Kathleen Mullan Harris, Pamela Herd, Kamil Sicinski, and Benjamin W. Domingue<sup>§</sup>. *Sociological Science*.
 
 <div style="font-size: 40px;"> <br> </div>
