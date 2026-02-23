@@ -131,6 +131,10 @@ Princeton, NJ 08544 </p>
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Scientific American </span>
 ](https://www.scientificamerican.com/article/scientists-must-consider-the-risk-of-racist-misappropriation-of-research/)
 
+<!-- Live Science -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Live Science </span>
+](https://www.livescience.com/health/genetics/new-tech-allows-parents-to-score-ivf-embryos-for-desirable-traits-and-its-in-desperate-need-of-regulation-opinion)
+
 <div style="font-size: 14pt;"> <br> </div>
 
 <!-- ========================= FUN ========================= -->
@@ -177,17 +181,17 @@ Contains: Biography + Research listings
 
 <!-- Bio paragraph 1 -->
 <p style="text-align: justify;">
-My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life-course. I specialize in quasi-experimental, computational, and biosocial quantitative methods. My research has been published in a range of academic journals, including *PNAS*, *Science Advances*, the *American Journal of Sociology*, and *Sociological Science*. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
+My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life course. I specialize in quasi-experimental, computational, and biosocial quantitative methods. My research has been published in a range of academic journals, including *PNAS*, *Science Advances*, the *American Journal of Sociology*, and *Sociological Science*. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
 </p>
 
 <!-- Bio paragraph 2 -->
 <p style="text-align: justify;">
-My work encompasses two primary research areas. The first integrates genomic information into the social and behavioral sciences. This includes utilizing polygenic scores to analyze genetic risk factors and gene-environment interactions, as well as employing genetic ancestry measures to explore racial and ethnic identity formation and demographic change. My second research area leverages field and natural experiments to investigate the factors that produce educational and health inequalities, with particular attention to the reciprocal relationship between education and health. This work has examined topics such as childhood lead exposure, fatal school shootings, and economic segregation.
+My work encompasses two primary research areas. The first integrates genomic information into the social and behavioral sciences. This includes using polygenic scores to analyze genetic risk factors and gene-environment interactions, as well as employing genetic ancestry measures to explore racial and ethnic identity formation and demographic change. My second research area leverages field and natural experiments to investigate the factors that produce educational and health inequalities, with particular attention to the reciprocal relationship between education and health. This work has examined topics such as childhood lead exposure, fatal school shootings, and economic segregation.
 </p>
 
 <!-- Bio paragraph 3 (book announcement + links) -->
 <p style="text-align: justify;">
-I recently co-authored a book with Stanford University bioethicist [Daphne Martschenko](https://daphnemartschenko.com) entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit) (forthcoming from Princeton University Press). Over the past decades, human genetics has rapidly produced an array of unprecedented genomic tools. In the book, Daphne and I debate and discuss the social, ethical, and policy issues raised by this DNA revolution. While we disagree on many points, we share a firm belief that successfully navigating the transition to a society with increasingly accurate and available genetic prediction requires taking seriously both the impact of DNA and the dangers of pernicious genetic myths. *What We Inherit* will be released on **February 3, 2026**. A Q&A containing more information about the book can be found [here](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/What_We_Inherit_Q%26A.pdf).
+I recently co-authored a book with Stanford University bioethicist [Daphne Martschenko](https://daphnemartschenko.com) entitled [*What We Inherit: How New Technologies and Old Myths Are Shaping Our Genomic Future*](https://press.princeton.edu/books/hardcover/9780691237756/what-we-inherit), published by Princeton University Press. Over the past decades, human genetics has rapidly produced an array of unprecedented genomic tools. In the book, Daphne and I debate and discuss the social, ethical, and policy issues raised by this DNA revolution. While we disagree on many points, we share a firm belief that successfully navigating the transition to a society with increasingly accurate and available genetic prediction requires taking seriously both the impact of DNA and the dangers of pernicious genetic myths. Reviews of *What We Inherit* can be found in [Undark](https://undark.org/2026/02/20/book-review-what-we-inherit/), [Ars Technica](https://arstechnica.com/science/2026/02/have-we-leapt-into-commercial-genetic-testing-without-understanding-it/), and [Publisher's Weekly](https://www.publishersweekly.com/9780691237756), and a Q&A with me and Daphne is available in [Live Science](https://www.livescience.com/health/genetics/some-of-them-have-accuracy-thats-close-to-zero-experts-unpack-the-promise-and-pitfalls-of-genetic-tests-aimed-at-consumers).
 </p>
 
 <!-- Bio paragraph 4 (personal + repo link) -->
