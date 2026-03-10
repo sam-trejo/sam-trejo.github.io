@@ -266,7 +266,7 @@ Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup
 
 #### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
-Luyin Zhang and **Sam Trejo**<sup>§</sup>. Forthcoming at *Demography*.
+Luyin Zhang and **Sam Trejo**<sup>§</sup>. Forthcoming at *Demography*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/luyin-z/estimating_admixture)
 
 <div style="font-size: 14pt;"> <br> </div>
 
