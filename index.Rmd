@@ -244,12 +244,6 @@ SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 
 Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
 
-<div style="font-size: 14pt;"> <br> </div>
-
-#### [Does Standard Adjustment for Genomic Population Structure Capture Direct Genetic Effects?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
-
-Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. *bioRxiv*.
-
 <div style="font-size: 40px;"> <br> </div>
 
 <!-- ========================= PUBLISHED & FORTHCOMING ========================= -->
@@ -263,6 +257,12 @@ Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup
 ### 2026
 
 <div style="font-size: 8pt;"> <br> </div>
+
+#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
+
+Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. Forthcoming at *Proceedings of the National Academy of Sciences*.
+
+<div style="font-size: 14pt;"> <br> </div>
 
 #### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
