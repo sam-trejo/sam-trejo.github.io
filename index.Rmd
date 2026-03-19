@@ -258,7 +258,7 @@ Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</s
 
 <div style="font-size: 8pt;"> <br> </div>
 
-#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment?](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
+#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
 
 Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. Forthcoming at *Proceedings of the National Academy of Sciences*.
 
