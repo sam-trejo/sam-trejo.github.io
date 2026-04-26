@@ -181,7 +181,7 @@ Contains: Biography + Research listings
 
 <!-- Bio paragraph 1 -->
 <p style="text-align: justify;">
-My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life course. I specialize in quasi-experimental, computational, and biosocial quantitative methods. My research has been published in a range of academic journals, including *PNAS*, *Science Advances*, the *American Journal of Sociology*, and *Sociological Science*. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
+My name is Sam Trejo—I am a sociologist and demographer interested in how social and biological factors jointly shape human development across the life course. I specialize in quasi-experimental, computational, and biosocial quantitative methods. My research has been published in a range of academic journals, including *PNAS*, *Science Advances*, the *American Journal of Sociology*, and *Demography*. I also co-lead the [Princeton Biosociology Lab](http://bio.sociology.princeton.edu/).
 </p>
 
 <!-- Bio paragraph 2 -->
