@@ -258,12 +258,6 @@ Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</s
 
 <div style="font-size: 8pt;"> <br> </div>
 
-#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.biorxiv.org/content/10.1101/2024.05.03.592431v2)
-
-Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. Forthcoming at *Proceedings of the National Academy of Sciences*.
-
-<div style="font-size: 14pt;"> <br> </div>
-
 #### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
 Luyin Zhang and **Sam Trejo**<sup>§</sup>. Forthcoming at *Demography*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/luyin-z/estimating_admixture)
@@ -273,6 +267,12 @@ Luyin Zhang and **Sam Trejo**<sup>§</sup>. Forthcoming at *Demography*. [<span 
 #### [Policing the Boundaries of Blackness: How Black and White Americans Evaluate Racial Self-identifications](https://www.journals.uchicago.edu/doi/10.1086/740028)
 
 Marissa Thompson, **Sam Trejo**, AJ Alvero, and Daphne Martschenko. Forthcoming at *American Journal of Sociology*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://osf.io/dj9pt/overview) [<span style="font-size: 15pt; font-family: 'Inter'; color: #F05A24;">●</span>](https://osf.io/dj9pt/registrations)
+
+<div style="font-size: 14pt;"> <br> </div>
+
+#### [Quantifying Direct Genetic Signal Captured by Principal Component Adjustment](https://www.pnas.org/doi/10.1073/pnas.2525790123)
+
+Ramina Sotoudeh<sup>\*</sup>, **Sam Trejo**, Arbel Harpak, and Dalton Conley<sup>§</sup>. *Proceedings of the National Academy of Sciences*.
 
 <div style="font-size: 40px;"> <br> </div>
 
