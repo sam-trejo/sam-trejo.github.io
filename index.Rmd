@@ -238,12 +238,6 @@ SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 
 **Sam Trejo** and Marissa Thompson. *APC Working Paper*.
 
-<div style="font-size: 14pt;"> <br> </div>
-
-#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
-
-Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. *SocArXiv*.
-
 <div style="font-size: 40px;"> <br> </div>
 
 <!-- ========================= PUBLISHED & FORTHCOMING ========================= -->
@@ -257,6 +251,12 @@ Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</s
 ### 2026
 
 <div style="font-size: 8pt;"> <br> </div>
+
+#### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
+
+Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. Forthcoming at *Sociological Science*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/luyin-z/attractiveness_penalties)
+
+<div style="font-size: 14pt;"> <br> </div>
 
 #### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
 
