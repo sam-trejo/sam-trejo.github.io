@@ -137,6 +137,36 @@ Princeton, NJ 08544 </p>
 
 <div style="font-size: 14pt;"> <br> </div>
 
+<!-- ========================= TEACHING ========================= -->
+<h2 style="border-bottom: .5pt solid; line-height: 2;">  Teaching </h2>
+
+<!-- Advanced Social Statistics -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Advanced Social Statistics </span>
+](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2026_01_princeton_soc504.pdf)
+<p style="font-family: 'DM Mono'; font-size: 8pt; color: #71716c; letter-spacing: 2.5px; line-height: 1; margin-top: 0.4em; margin-bottom: 1.75em;">[LECTURE SLIDES](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2026_01_princeton_soc504.pdf)</p>
+
+<!-- Genomics & Society -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Genomics \& Society </span>
+](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2022_09_princeton_soc371.pdf)
+
+<!-- Sports, Recreation, & Society -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Sports, Recreation, \& Society </span>
+](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2026_01_princeton_soc362.pdf)
+
+<!-- Biodemography -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Biodemography </span>
+](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_01_wisconsin_soc901.pdf)
+
+<!-- Disovering What Works in Health Policy -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> What Works in Health Policy? </span>
+](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2021_01_wisconsin_pa281.pdf)
+
+<!-- Causal Inference in Educational \& Social Research -->
+[<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Applied Causal Inference </span>
+](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2020_01_stanford_educ430b.pdf)
+
+<div style="font-size: 14pt;"> <br> </div>
+
 <!-- ========================= FUN ========================= -->
 <h2 style="border-bottom: .5pt solid; line-height: 2;">  Fun </h2>
 
