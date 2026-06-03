@@ -143,7 +143,7 @@ Princeton, NJ 08544 </p>
 <!-- Advanced Social Statistics -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Advanced Social Statistics </span>
 ](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2026_01_princeton_soc504.pdf)
-<p style="font-family: 'DM Mono'; font-size: 8pt; color: #71716c; letter-spacing: 2.5px; line-height: 1; margin-top: 0.4em; margin-bottom: 1.75em;">[LECTURE SLIDES](https://trejo.scholar.princeton.edu/sites/g/files/toruqf3186/files/documents/2026_01_princeton_soc504.pdf)</p>
+<p style="font-family: 'DM Mono'; font-size: 8pt; color: #71716c; letter-spacing: 2.5px; line-height: 1; margin-top: 0.4em; margin-bottom: 1.75em;">[LECTURE SLIDES](https://www.dropbox.com/scl/fo/f2sr2lr148s5l50kwwcux/ALPQUSQtRGycs1eKNmeuIrg?rlkey=erncp726hbpcuxmfimrvj8c8i&st=q41n7mx3&dl=0)</p>
 
 <!-- Genomics & Society -->
 [<span style="font-size: 12pt; font-family: 'DM Mono'; font-weight: normal; letter-spacing: 1px; color: #71716c"> Genomics \& Society </span>
