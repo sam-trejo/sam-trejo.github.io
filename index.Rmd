@@ -282,6 +282,12 @@ SECTION BREAK / VISUAL SEPARATOR (commented out; no effect in output)
 
 <div style="font-size: 8pt;"> <br> </div>
 
+#### [What Does It Mean to Be Black? Experimental Evidence on the Situational Deployment of Racial Schemas](https://osf.io/preprints/socarxiv/8tnrk_v1)
+
+Marissa Thompson, AJ Alvero, **Sam Trejo**, and Daphne Martschenko. Forthcoming at *Sociology of Race and Ethnicity*.
+
+<div style="font-size: 14pt;"> <br> </div>
+
 #### [Leveraging Genomic Data to Document Within-Race Attractiveness Penalties Among Black Americans](https://osf.io/preprints/socarxiv/5kbt9_v2)
 
 Beza Taddess<sup>\*</sup>, Luyin Zhang<sup>\*</sup>, and **Sam Trejo**<sup>§</sup>. Forthcoming at *Sociological Science*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/luyin-z/attractiveness_penalties)
