@@ -300,7 +300,7 @@ Marissa Thompson, AJ Alvero, **Sam Trejo**, and Daphne Martschenko. Forthcoming 
 
 <div style="font-size: 14pt;"> <br> </div>
 
-#### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://osf.io/preprints/socarxiv/mdybz_v1)
+#### [DNA, Self-Reported Ancestry, and Social Scientific Inquiry](https://doi.org/10.1215/00703370-12912843)
 
 Luyin Zhang and **Sam Trejo**<sup>§</sup>. Forthcoming at *Demography*. [<span style="font-size: 15pt; font-family: 'Inter'; color: #8754FC;">●</span>](https://github.com/luyin-z/estimating_admixture)
 
